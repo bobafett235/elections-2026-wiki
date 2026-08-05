@@ -3,6 +3,12 @@
 node_modules
 public
 prof
+.env
+.env.*
+__pycache__/
+*.py[cod]
+content/private/
+content/raw/
 tsconfig.tsbuildinfo
 .obsidian
 .quartz-cache
@@ -10,5 +16,6 @@ private/
 .replit
 replit.nix
 .quartz/
+.hermes/
 quartz/cli/tui/dist/
 .turbo/

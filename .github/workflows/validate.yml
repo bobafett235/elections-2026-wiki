@@ -1,0 +1,31 @@
+name: Validate public content
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-public-content:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22.x
+          cache: npm
+
+      - name: Install Node dependencies
+        run: npm ci
+
+      - name: Validate reviewed public content
+        run: python3 tools/validate_public_content.py content
+
+      - name: Build Quartz site
+        run: npx quartz build

@@ -1,0 +1,16 @@
+{
+  "groups": {
+    "races": 8,
+    "entities": 47,
+    "sources": 12
+  },
+  "root_files": [
+    "index.md"
+  ],
+  "meta_files": [
+    "about.md",
+    "changelog.md"
+  ],
+  "total_markdown_files": 70,
+  "secret_scan_allowlist": []
+}

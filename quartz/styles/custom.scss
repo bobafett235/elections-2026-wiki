@@ -1,3 +1,24 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Quiet, research-oriented adjustments. Site colors live in quartz.config.yaml.
+
+article {
+  max-width: 76rem;
+}
+
+a.external-link {
+  text-underline-offset: 0.14em;
+}
+
+a.external-link .external-icon {
+  opacity: 0.72;
+}
+
+a.internal.broken {
+  text-decoration-style: wavy;
+  text-decoration-color: var(--secondary);
+}
+
+.tags {
+  gap: 0.35rem;
+}
