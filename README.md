@@ -2,6 +2,8 @@
 
 A Quartz-powered public site for an independent, source-first research wiki covering South Carolina's 2026 elections, with particular attention to Anderson County and Pendleton-area races.
 
+**Live site:** https://bobafett235.github.io/elections-2026-wiki/
+
 ## Publication model
 
 The canonical research workspace is a private Obsidian vault. This repository is a filtered public mirror. Only reviewed Markdown content belongs under `content/`.

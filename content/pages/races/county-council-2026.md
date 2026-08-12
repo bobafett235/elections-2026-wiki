@@ -4,58 +4,62 @@ aliases: []
 office: Anderson County Council
 status: evergreen
 race_status: active
-last_updated: 2026-08-04
-source_count: 6
-confidence: low
+last_updated: 2026-08-12
+sources_checked: 2026-08-12
+source_count: 8
+confidence: high
 sources:
-  - "https://www.andersoncountysc.org/departments-a-z/vote/"
-  - "https://www.andersoncountysc.org/county-council/"
+  - "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22598"
+  - "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+  - "https://www.enr-scvotes.org/SC/Anderson/126298/web.345435/#/summary?v=375411"
+  - "https://www.andersoncountysc.org/government/county-council/"
+  - "https://www.independentmail.com/story/news/politics/elections/2026/06/09/results-anderson-county-council-2026-sc-primary-election/90402445007/"
+  - "https://www.andersonobserver.com/news/2026-election-season-officially-open"
+  - "https://www.postandcourier.com/greenville/politics/anderson-county-election-incumbent-losses-growth/article_9fc9d9fa-8e24-446d-a830-48d7cc281b6d.html"
   - "https://www.independentmail.com/story/news/local/2025/11/07/penny-sales-tax-rejected-anderson-county-voters-whats-next/87122970007/"
-  - "https://vrems.scvotes.sc.gov/Candidate/SelectElection"
-  - "https://scvotes.gov/candidates/"
-  - "https://scvotes.gov/elections-statistics/election-results/"
-modified: 2026-08-04
+modified: 2026-08-12
 ---
 # Anderson County Council (2026)
 
-Council members serve **2-year terms** (per county site), so all 7 districts are on the Nov 3, 2026 ballot. Partisan races. Pendleton/29670 is in **District 7** (Pendleton/Clemson corner). [verified: county council structure page + research]
+Anderson County has seven council districts, with members elected to two-year terms. All seven districts are on the Nov. 3, 2026 ballot. The county identifies [[pages/entities/collin-alexander|District 7]] as covering the Williamston/Pelzer area, not Pendleton itself. Pendleton's council district needs a map-level confirmation before this site claims an exact district assignment [needs-source].
 
 ## Race status
 
-- General election: November 3, 2026
 - Primary: June 9, 2026
-- Runoff: June 23, 2026 if needed
-- Candidate field: incomplete; verify against the official South Carolina candidate and sample-ballot tools
-- Ratings: not available for these local races
+- General election: November 3, 2026
+- Candidate field: **complete in SC Votes Candidate Tracking as of Aug. 12**. The tracker lists 13 relevant records: seven active general-election candidates and six candidates defeated in the Republican primary.
+- General-election contests: **District 2 only**, Democrat [[pages/entities/glenn-davis|Glenn Davis]] versus Republican [[pages/entities/james-hayes|James Hayes]]. The other six districts have one active candidate listed by SC Votes.
+- Official results record: the State Election Commission's Anderson County ENR page is linked in Sources, but returned HTTP 403 from this research environment. Primary result figures below are attributed to the Independent Mail's 100%-precincts report, not labeled certified here.
 
-The August 4 SC Votes 2026 local-election list did not expose an Anderson County Council election entry, and SC Votes warns that some local elections may not be available in Candidate Tracking. The county Registration and Elections office remains the next primary check for this roster.
+## November field and June primary history
 
-| District | Incumbent | Candidate-field status | Notes |
-|---|---|---|---|
-| 1 | Chris Sullivan | Not yet verified | entrepreneur; Finance, Planning & Public Works committees |
-| 2 | Glenn Davis | Not yet verified | Davis Driving Academy owner; retired Michelin |
-| 3 | Greg Elgin | Not yet verified | retired SC Highway Patrol; Rock Springs VFD chief |
-| 4 | Brett Sanders | Not yet verified | Vice-Chairman; entrepreneur, Clemson grad |
-| 5 | Tommy Dunn | Not yet verified | Chairman; D and H Construction |
-| 6 | Jimmy Davis | Not yet verified | Wren High grad; small business principal |
-| 7 | [M. Cindy Wilson](../entities/cindy-wilson) | Incumbent page exists; challenger unverified | real estate broker, farmer |
+| District | Active Nov. 3 candidate(s), per SC Votes | June 9 primary / field status |
+|---|---|---|
+| 1 | [Chris Sullivan](../entities/chris-sullivan) (R) | Sullivan beat Kelley Koonce, 64.33% to 35.67%; no Democratic candidate reported. |
+| 2 | [Glenn Davis](../entities/glenn-davis) (D); [James Hayes](../entities/james-hayes) (R) | Only active two-candidate November council race. |
+| 3 | [Greg Elgin](../entities/greg-elgin) (R) | Sole active candidate listed by SC Votes. |
+| 4 | [Dave Shalaby](../entities/dave-shalaby) (R) | Open seat after Brett Sanders did not seek reelection; Shalaby beat Samuel Whatley, 58.35% to 41.65%. |
+| 5 | [Josh Mann](../entities/josh-mann) (R) | Mann beat incumbent chairman Tommy Dunn, 57.92% to 42.08%. |
+| 6 | [Jimmy Davis](../entities/jimmy-davis) (R) | Davis beat Ryan Cowsert, 76.70% to 23.30%. |
+| 7 | [Collin Alexander](../entities/collin-alexander) (R) | Alexander beat incumbent [[pages/entities/cindy-wilson|M. Cindy Wilson]], 1,818 votes (50.53%) to 1,780 (49.47%). |
 
-## District 7 (Pendleton) race
+## District 7 correction
 
-- [[pages/entities/cindy-wilson|M. Cindy Wilson]] (R, incumbent)
-- [[pages/entities/collin-alexander|Collin Alexander]] - challenger, "Vote for Progress" [unverified: only a search snippet; campaign site 404'd]
+The prior version of this page treated Collin Alexander as an unverified challenger. That was wrong. SC Votes lists Alexander as the active Republican candidate and Wilson as defeated in the primary. The Independent Mail reported the 38-vote primary margin; no Democratic candidate was reported for District 7.
 
-⚠️ Candidate lists for all 7 districts were not found in accessible sources as of Aug 4, 2026. Check the official candidate and sample-ballot tools at scvotes.gov for the definitive list.
+Alexander's 2026 campaign emphasized stricter review of FILOT agreements, an independent county-finance audit, conflict-of-interest rules, transparency, and growth tied to infrastructure ([pre-primary profile](https://www.independentmail.com/story/news/politics/elections/2026/06/03/whos-running-key-issues-in-anderson-county-council-primary/90175653007/)). These are campaign positions, not established council policy.
 
 ## Context: roads and the penny tax
 
-Voters rejected the 1% capital project sales tax on Nov 4, 2025 by ~79% (18,370 no / 4,920 yes), the third rejection. County Administrator Rusty Burns said the council will not bring it back; the county is pursuing state road funds and regional advocacy instead. No local referenda are pending for Nov 2026.
+Voters rejected the 1% capital-project sales tax on Nov. 4, 2025. County Administrator Rusty Burns said the council would not bring it back, according to the Independent Mail. Development, infrastructure, and public trust featured prominently in the 2026 council campaigns.
 
 ## Sources
 
-- https://www.andersoncountysc.org/departments-a-z/vote/
-- https://www.andersoncountysc.org/county-council/
+- https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22598
+- https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596
+- https://www.enr-scvotes.org/SC/Anderson/126298/web.345435/#/summary?v=375411
+- https://www.andersoncountysc.org/government/county-council/
+- https://www.independentmail.com/story/news/politics/elections/2026/06/09/results-anderson-county-council-2026-sc-primary-election/90402445007/
+- https://www.andersonobserver.com/news/2026-election-season-officially-open
+- https://www.postandcourier.com/greenville/politics/anderson-county-election-incumbent-losses-growth/article_9fc9d9fa-8e24-446d-a830-48d7cc281b6d.html
 - https://www.independentmail.com/story/news/local/2025/11/07/penny-sales-tax-rejected-anderson-county-voters-whats-next/87122970007/
-- https://vrems.scvotes.sc.gov/Candidate/SelectElection
-- https://scvotes.gov/candidates/
-- https://scvotes.gov/elections-statistics/election-results/

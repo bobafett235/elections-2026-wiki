@@ -15,13 +15,13 @@ The publisher stages every export beside `content/`, runs the safety and manifes
 The publisher currently expects:
 
 - 8 race pages under `pages/races/`
-- 47 entity pages under `pages/entities/`
+- 54 entity pages under `pages/entities/`
 - 12 source pages under `pages/sources/`
 - `index.md` at the vault root
 - `publish/about.md`
 - `publish/changelog.md`
 
-It publishes 70 Markdown files in total, including the index and two public meta pages.
+It publishes 77 Markdown files in total, including the index and two public meta pages.
 
 ## Safety behavior
 

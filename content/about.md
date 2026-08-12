@@ -2,11 +2,11 @@
 tags: [meta]
 aliases: [About this wiki]
 status: evergreen
-last_updated: 2026-08-04
+last_updated: 2026-08-12
 source_count: 0
 confidence: high
 sources: []
-modified: 2026-08-04
+modified: 2026-08-12
 ---
 # About this wiki
 
@@ -60,3 +60,7 @@ The project favors transparent corrections: preserve a material conflict with da
 ## Public scope
 
 The public site contains reviewed Markdown pages from the research wiki. Private Obsidian configuration, internal instructions, raw research files, temporary drafts, and personal metadata are not part of the public publication.
+
+## Hosting and source
+
+The site is built from the public source repository at [github.com/bobafett235/elections-2026-wiki](https://github.com/bobafett235/elections-2026-wiki) and served by GitHub Pages at [bobafett235.github.io/elections-2026-wiki](https://bobafett235.github.io/elections-2026-wiki/). The repository is a reviewed, filtered mirror of a private research vault. Corrections, questions, and source suggestions can be filed through the repository's issue tracker.

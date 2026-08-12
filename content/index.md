@@ -2,19 +2,19 @@
 title: South Carolina Elections 2026 Wiki
 description: Independent, source-first research on South Carolina elections, Anderson County, and Pendleton-area races.
 tags: [meta, elections-2026, south-carolina]
-last_updated: 2026-08-11
+last_updated: 2026-08-12
 confidence: high
 source_count: 0
 sources: []
-modified: 2026-08-11
+modified: 2026-08-12
 ---
 # Elections 2026 Wiki - Index
 
 > Content catalog. Every wiki page listed under its section with a one-line summary.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-11 | Total pages: 67 (8 races, 47 candidates, 12 source notes)
+> Last updated: 2026-08-12 | Total pages: 74 (8 races, 54 candidates, 12 source notes)
 
-Start here: [[about|About, methodology, and disclaimer]] · [[changelog|Public changelog]]
+Start here: [[about|About, methodology, and disclaimer]] · [[changelog|Public changelog]] · [Source repository](https://github.com/bobafett235/elections-2026-wiki)
 
 ## Races
 
@@ -80,8 +80,15 @@ Start here: [[about|About, methodology, and disclaimer]] · [[changelog|Public c
 
 - [[pages/entities/don-chapman|Don Chapman]] (R) - HD-8 incumbent, architect
 - [[pages/entities/demetrius-carson|Demetrius Carson]] (D) - HD-8 challenger, little info
-- [[pages/entities/cindy-wilson|M. Cindy Wilson]] (R) - County Council D7 incumbent
-- [[pages/entities/collin-alexander|Collin Alexander]] (?) - D7 challenger [unverified]
+- [[pages/entities/glenn-davis|Glenn Davis]] (D) - County Council D2 incumbent; only contested council race
+- [[pages/entities/jimmy-davis|Jimmy Davis]] (R) - County Council D6 incumbent
+- [[pages/entities/greg-elgin|Greg Elgin]] (R) - County Council D3 incumbent
+- [[pages/entities/james-hayes|James Hayes]] (R) - County Council D2 challenger
+- [[pages/entities/josh-mann|Josh Mann]] (R) - County Council D5; beat chairman Dunn in primary
+- [[pages/entities/dave-shalaby|Dave Shalaby]] (R) - County Council D4; open seat
+- [[pages/entities/chris-sullivan|Chris Sullivan]] (R) - County Council D1 incumbent
+- [[pages/entities/cindy-wilson|M. Cindy Wilson]] (R) - County Council D7 incumbent, defeated in primary
+- [[pages/entities/collin-alexander|Collin Alexander]] (R) - County Council D7 nominee; beat Wilson by 38 votes
 - [[pages/entities/paulette-grate|Paulette Grate]] (NP) - SD4 board Area 2
 - [[pages/entities/diana-mullikin|Diana Mullikin]] (NP) - SD4 board Area 4
 - [[pages/entities/brad-mock|Brad Mock]] (NP) - SD4 board Area 5

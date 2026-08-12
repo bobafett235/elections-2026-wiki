@@ -2,13 +2,20 @@
 tags: [meta]
 aliases: [Public changelog]
 status: evergreen
-last_updated: 2026-08-11
+last_updated: 2026-08-12
 source_count: 0
 confidence: high
 sources: []
-modified: 2026-08-11
+modified: 2026-08-12
 ---
 # Public changelog
+
+## 2026-08-12: Anderson County Council candidate pages and source links
+
+- Added seven verified candidate pages for the Anderson County Council November field (Districts 1 through 6), each citing SC Votes candidate records, county council profiles, and local reporting: Chris Sullivan, Dave Shalaby, Glenn Davis, Greg Elgin, James Hayes, Jimmy Davis, and Josh Mann.
+- Completed the County Council race page with the full verified field: District 2 is the only two-candidate November contest (Glenn Davis vs James Hayes); the other six districts list one active candidate each. The District 7 correction (Collin Alexander beat M. Cindy Wilson by 38 votes) is now fully sourced.
+- Rebuilt the index to 74 pages: 8 races, 54 candidates, and 12 source notes.
+- Added the project source repository link (github.com/bobafett235/elections-2026-wiki) to the homepage and the About page.
 
 ## 2026-08-11: Senate special-primary result and ballot correction
 
