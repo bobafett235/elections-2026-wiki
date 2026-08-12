@@ -41,7 +41,7 @@ Anderson County has seven council districts, with members elected to two-year te
 | 4 | [Dave Shalaby](../entities/dave-shalaby) (R) | Open seat after Brett Sanders did not seek reelection; Shalaby beat Samuel Whatley, 58.35% to 41.65%. |
 | 5 | [Josh Mann](../entities/josh-mann) (R) | Mann beat incumbent chairman Tommy Dunn, 57.92% to 42.08%. |
 | 6 | [Jimmy Davis](../entities/jimmy-davis) (R) | Davis beat Ryan Cowsert, 76.70% to 23.30%. |
-| 7 | [Collin Alexander](../entities/collin-alexander) (R) | Alexander beat incumbent [[pages/entities/cindy-wilson|M. Cindy Wilson]], 1,818 votes (50.53%) to 1,780 (49.47%). |
+| 7 | [Collin Alexander](../entities/collin-alexander) (R) | Alexander beat incumbent [M. Cindy Wilson](../entities/cindy-wilson), 1,818 votes (50.53%) to 1,780 (49.47%). |
 
 ## District 7 correction
 
