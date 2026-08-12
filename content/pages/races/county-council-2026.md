@@ -35,13 +35,13 @@ Anderson County has seven council districts, with members elected to two-year te
 
 | District | Active Nov. 3 candidate(s), per SC Votes | June 9 primary / field status |
 |---|---|---|
-| 1 | [Chris Sullivan](../entities/chris-sullivan) (R) | Sullivan beat Kelley Koonce, 64.33% to 35.67%; no Democratic candidate reported. |
-| 2 | [Glenn Davis](../entities/glenn-davis) (D); [James Hayes](../entities/james-hayes) (R) | Only active two-candidate November council race. |
-| 3 | [Greg Elgin](../entities/greg-elgin) (R) | Sole active candidate listed by SC Votes. |
-| 4 | [Dave Shalaby](../entities/dave-shalaby) (R) | Open seat after Brett Sanders did not seek reelection; Shalaby beat Samuel Whatley, 58.35% to 41.65%. |
-| 5 | [Josh Mann](../entities/josh-mann) (R) | Mann beat incumbent chairman Tommy Dunn, 57.92% to 42.08%. |
-| 6 | [Jimmy Davis](../entities/jimmy-davis) (R) | Davis beat Ryan Cowsert, 76.70% to 23.30%. |
-| 7 | [Collin Alexander](../entities/collin-alexander) (R) | Alexander beat incumbent [M. Cindy Wilson](../entities/cindy-wilson), 1,818 votes (50.53%) to 1,780 (49.47%). |
+| 1 | [Chris Sullivan](pages/entities/chris-sullivan) (R) | Sullivan beat Kelley Koonce, 64.33% to 35.67%; no Democratic candidate reported. |
+| 2 | [Glenn Davis](pages/entities/glenn-davis) (D); [James Hayes](pages/entities/james-hayes) (R) | Only active two-candidate November council race. |
+| 3 | [Greg Elgin](pages/entities/greg-elgin) (R) | Sole active candidate listed by SC Votes. |
+| 4 | [Dave Shalaby](pages/entities/dave-shalaby) (R) | Open seat after Brett Sanders did not seek reelection; Shalaby beat Samuel Whatley, 58.35% to 41.65%. |
+| 5 | [Josh Mann](pages/entities/josh-mann) (R) | Mann beat incumbent chairman Tommy Dunn, 57.92% to 42.08%. |
+| 6 | [Jimmy Davis](pages/entities/jimmy-davis) (R) | Davis beat Ryan Cowsert, 76.70% to 23.30%. |
+| 7 | [Collin Alexander](pages/entities/collin-alexander) (R) | Alexander beat incumbent [M. Cindy Wilson](pages/entities/cindy-wilson), 1,818 votes (50.53%) to 1,780 (49.47%). |
 
 ## District 7 correction
 

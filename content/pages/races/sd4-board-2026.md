@@ -30,9 +30,9 @@ SD4 serves Pendleton (district office at 315 E Queen St, Pendleton, SC 29670). F
 
 | Area | Incumbent | Since |
 |---|---|---|
-| 2 | [Paulette Grate](../entities/paulette-grate) | 2010 |
-| 4 | [Diana Mullikin](../entities/diana-mullikin) | 2010 |
-| 5 | [Brad Mock](../entities/brad-mock) | 2022 |
+| 2 | [Paulette Grate](pages/entities/paulette-grate) | 2010 |
+| 4 | [Diana Mullikin](pages/entities/diana-mullikin) | 2010 |
+| 5 | [Brad Mock](pages/entities/brad-mock) | 2022 |
 
 Not up: Area 1 (Waylon Priester, elected 2024), Area 3 (Charles Privette III, elected 2024).
 

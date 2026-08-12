@@ -132,37 +132,56 @@ def check_links(files: list[Path], content_root: Path) -> tuple[int, int, list[s
 
     for source in files:
         relative = source.relative_to(content_root)
-        text = source.read_text(encoding="utf-8")
+        for line_number, line in enumerate(source.read_text(encoding="utf-8").splitlines(), start=1):
+            in_table_row = line.strip().startswith("|")
 
-        for raw in WIKILINK_RE.findall(text):
-            target = raw.split("|", 1)[0].split("#", 1)[0].strip()
-            if not target:
-                continue
-            wikilink_count += 1
-            candidate = (content_root / (target if target.endswith(".md") else f"{target}.md")).resolve()
-            try:
-                candidate.relative_to(content_root.resolve())
-            except ValueError:
-                findings.append(f"{relative}: wikilink escapes public content: {target}")
-                continue
-            if not candidate.is_file():
-                findings.append(f"{relative}: broken wikilink target: {target}")
+            for raw in WIKILINK_RE.findall(line):
+                target = raw.split("|", 1)[0].split("#", 1)[0].strip()
+                if not target:
+                    continue
+                wikilink_count += 1
+                candidate = (content_root / (target if target.endswith(".md") else f"{target}.md")).resolve()
+                try:
+                    candidate.relative_to(content_root.resolve())
+                except ValueError:
+                    findings.append(f"{relative}:{line_number}: wikilink escapes public content: {target}")
+                    continue
+                if not candidate.is_file():
+                    findings.append(f"{relative}:{line_number}: broken wikilink target: {target}")
 
-        for raw_target in MARKDOWN_LINK_RE.findall(text):
-            target = raw_target.split("#", 1)[0].strip()
-            if not target or target.startswith(("#", "http://", "https://", "mailto:", "data:")):
-                continue
-            markdown_count += 1
-            candidate = resolve_public_target(content_root, source, target)
-            if candidate is None:
-                continue
-            try:
-                candidate.relative_to(content_root.resolve())
-            except ValueError:
-                findings.append(f"{relative}: Markdown link escapes public content: {target}")
-                continue
-            if not candidate.is_file():
-                findings.append(f"{relative}: broken Markdown link target: {target}")
+            for raw_target in MARKDOWN_LINK_RE.findall(line):
+                target = raw_target.split("#", 1)[0].strip()
+                if not target or target.startswith(("#", "http://", "https://", "mailto:", "data:")):
+                    continue
+                markdown_count += 1
+                if in_table_row:
+                    # Quartz resolves Markdown links inside table cells against the
+                    # content root (verified empirically 2026-08-12). Prefixes like
+                    # ../ or ./ emit broken hrefs from table cells, and root-absolute
+                    # paths get ./ prepended. Table-cell links must be content-root
+                    # relative, e.g. pages/entities/name.
+                    if target.startswith(("/", "../", "./")):
+                        findings.append(
+                            f"{relative}:{line_number}: table-cell Markdown link must be "
+                            f"content-root relative (no /, ../, or ./ prefix): {target}"
+                        )
+                        continue
+                    candidate = (content_root / (target if target.endswith(".md") else f"{target}.md")).resolve()
+                    if not candidate.is_file():
+                        # Fall back to file-directory resolution, which Quartz also
+                        # attempts for bare names (e.g. same-directory race links).
+                        candidate = resolve_public_target(content_root, source, target)
+                else:
+                    candidate = resolve_public_target(content_root, source, target)
+                if candidate is None:
+                    continue
+                try:
+                    candidate.relative_to(content_root.resolve())
+                except ValueError:
+                    findings.append(f"{relative}:{line_number}: Markdown link escapes public content: {target}")
+                    continue
+                if not candidate.is_file():
+                    findings.append(f"{relative}:{line_number}: broken Markdown link target: {target}")
 
     return wikilink_count, markdown_count, findings
 
