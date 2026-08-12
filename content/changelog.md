@@ -2,13 +2,20 @@
 tags: [meta]
 aliases: [Public changelog]
 status: evergreen
-last_updated: 2026-08-04
+last_updated: 2026-08-11
 source_count: 0
 confidence: high
 sources: []
-modified: 2026-08-04
+modified: 2026-08-11
 ---
 # Public changelog
+
+## 2026-08-11: Senate special-primary result and ballot correction
+
+- Updated the Senate race from the completed Aug. 11 special primary to the Aug. 25 runoff between Darline Graham and Ralph Norman. The Associated Press called the runoff pair; the official SC Votes ENR record remains linked but returned HTTP 403 from this research environment, so the site does not present unofficial totals as final.
+- Corrected the August ballot history: the party decertified three of 12 filers, then a court order required Danny Ford II back onto the ballot, producing the 10-candidate field that voted Aug. 11.
+- Removed the false SC-5/SC-7 “status conflict.” SC Votes says candidates may appear on a general-election ballot for more than one office, while complete House candidate fields remain explicitly unverified.
+- Strengthened public publishing: exports now stage and pass safety checks before atomically replacing the last known-good public content, with regression tests enforced in GitHub Actions.
 
 ## 2026-08-04: Public-content validation added
 

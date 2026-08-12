@@ -2,41 +2,41 @@
 title: South Carolina Elections 2026 Wiki
 description: Independent, source-first research on South Carolina elections, Anderson County, and Pendleton-area races.
 tags: [meta, elections-2026, south-carolina]
-last_updated: 2026-08-04
+last_updated: 2026-08-11
 confidence: high
 source_count: 0
 sources: []
-modified: 2026-08-04
+modified: 2026-08-11
 ---
 # Elections 2026 Wiki - Index
 
 > Content catalog. Every wiki page listed under its section with a one-line summary.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-04 | Total pages: 67 (8 races, 47 candidates, 12 source notes)
+> Last updated: 2026-08-11 | Total pages: 67 (8 races, 47 candidates, 12 source notes)
 
 Start here: [[about|About, methodology, and disclaimer]] · [[changelog|Public changelog]]
 
 ## Races
 
-- [[pages/races/senate-2026|US Senate]] - special GOP primary Aug 11 (10 active candidates; 2 filed records not certified), runoff Aug 25, general Nov 3; Graham died July 11, sister appointed
+- [[pages/races/senate-2026|US Senate]] - Darline Graham vs Ralph Norman in Aug 25 special GOP runoff; official totals pending accessible SC Votes ENR record
 - [[pages/races/governor-2026|Governor]] - Wilson/Reichenbach (R) vs Johnson/Skardon (D); open seat, McMaster term-limited
 - [[pages/races/statewide-offices-2026|Statewide Offices]] - AG, SoS, Treasurer, Comptroller, Supt, Ag Commissioner
 - [[pages/races/us-house-sc3-2026|US House SC-3]] - Biggs (R, inc) vs Lehmacher (D) vs Corriea (L)
-- [[pages/races/us-house-sc-overview-2026|US House statewide overview]] - all seven districts; SC-5 and SC-7 status disputed against the Senate special-primary page
+- [[pages/races/us-house-sc-overview-2026|US House statewide overview]] - all seven districts; comprehensive candidate fields remain incomplete, but Senate-primary participation is not an incumbent-status conflict
 - [[pages/races/hd8-2026|SC House HD-8]] - Chapman (R, inc) vs Carson (D)
 - [[pages/races/county-council-2026|Anderson County Council]] - all 7 seats up; D7 = Pendleton; penny tax rejected Nov 2025
 - [[pages/races/sd4-board-2026|Anderson SD4 School Board]] - Areas 2, 4, 5 expected up; no challengers found yet
 
 ## Entities - U.S. Senate
 
-- [[pages/entities/darline-graham|Darline Graham]] (R) - appointed incumbent; ex-SC Commission for the Blind chief
-- [[pages/entities/russell-fry|Russell Fry]] (R) - SC-7 congressman; America First platform
-- [[pages/entities/ralph-norman|Ralph Norman]] (R) - SC-5 congressman; most conservative rep in 117th
+- [[pages/entities/darline-graham|Darline Graham]] (R) - appointed incumbent; Aug 25 runoff finalist
+- [[pages/entities/russell-fry|Russell Fry]] (R) - SC-7 congressman; did not advance from Senate primary
+- [[pages/entities/ralph-norman|Ralph Norman]] (R) - SC-5 congressman; Aug 25 runoff finalist
 - [[pages/entities/mark-sanford|Mark Sanford]] (R) - ex-governor; debt-focused campaign
 - [[pages/entities/mark-lynch|Mark Lynch]] (R) - appliance businessman; 28.9% in June primary
 - [[pages/entities/mark-mcbride|Mark McBride]] (R) - ex-Myrtle Beach mayor
 - [[pages/entities/duke-buckner|Duke Buckner]] (R) - attorney; ex-Walterboro councilman
-- [[pages/entities/danny-ford|Danny Ford]] (R) - lost Ag Commissioner runoff June 23
+- [[pages/entities/danny-ford|Danny Ford]] (R) - reinstated by court order to the Aug 11 ballot; did not advance
 - [[pages/entities/glenda-gail-parker|Glenda Gail Parker]] (R) - ex-Air Force financial manager
 - [[pages/entities/sam-shepherd|Sam Shepherd]] (R) - first-timer, little public info
 - [[pages/entities/annie-andrews|Annie Andrews]] (D) - pediatrician; Dem nominee, 61.5% primary

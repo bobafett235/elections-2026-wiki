@@ -13,6 +13,8 @@ import json
 import re
 import shutil
 import sys
+import tempfile
+import uuid
 from pathlib import Path
 from typing import Iterable
 
@@ -76,16 +78,33 @@ def resolve_directory(path: Path, label: str) -> Path:
     return path
 
 
-def clear_output(output: Path, vault: Path) -> None:
+def validate_output_path(output: Path, vault: Path) -> Path:
     output = output.expanduser().resolve()
     if output in {Path("/"), Path.home().resolve(), vault}:
-        raise PublicationError(f"refusing to clear unsafe output directory: {output}")
-    output.mkdir(parents=True, exist_ok=True)
-    for child in output.iterdir():
-        if child.is_dir():
-            shutil.rmtree(child)
-        else:
-            child.unlink()
+        raise PublicationError(f"refusing to publish to unsafe output directory: {output}")
+    output.parent.mkdir(parents=True, exist_ok=True)
+    return output
+
+
+def create_staging_directory(output: Path) -> Path:
+    return Path(tempfile.mkdtemp(prefix=f".{output.name}.staging-", dir=output.parent))
+
+
+def replace_output(staging: Path, output: Path) -> None:
+    """Replace the public tree only after the staged export has passed all checks."""
+    backup = output.with_name(f".{output.name}.backup-{uuid.uuid4().hex}")
+    previous_output_exists = output.exists()
+    try:
+        if previous_output_exists:
+            output.rename(backup)
+        staging.rename(output)
+    except OSError as exc:
+        if previous_output_exists and backup.exists() and not output.exists():
+            backup.rename(output)
+        raise PublicationError(f"could not replace public output directory: {exc}") from exc
+    else:
+        if backup.exists():
+            shutil.rmtree(backup)
 
 
 def normalize_public_markdown(text: str) -> str:
@@ -173,21 +192,29 @@ def verify_manifest(content_root: Path, manifest: dict) -> dict[str, int]:
 
 def publish(vault: Path, output: Path, manifest_path: Path) -> dict:
     vault = resolve_directory(vault, "vault")
+    output = validate_output_path(output, vault)
     manifest = load_manifest(manifest_path.resolve())
-    clear_output(output, vault)
+    staging = create_staging_directory(output)
 
-    copied: list[Path] = []
-    copied.append(copy_required_file(vault / "index.md", output / "index.md"))
-    for group in GROUPS:
-        copied.extend(copy_markdown_tree(vault / "pages" / group, output / "pages" / group))
-    for name in META_FILES:
-        copied.append(copy_required_file(vault / "publish" / name, output / name))
+    try:
+        copied: list[Path] = []
+        copied.append(copy_required_file(vault / "index.md", staging / "index.md"))
+        for group in GROUPS:
+            copied.extend(copy_markdown_tree(vault / "pages" / group, staging / "pages" / group))
+        for name in META_FILES:
+            copied.append(copy_required_file(vault / "publish" / name, staging / name))
 
-    findings = find_findings(output, manifest.get("secret_scan_allowlist", []))
-    if findings:
-        raise PublicationError("publication safety scan failed:\n" + "\n".join(findings))
+        findings = find_findings(staging, manifest.get("secret_scan_allowlist", []))
+        if findings:
+            raise PublicationError("publication safety scan failed:\n" + "\n".join(findings))
 
-    counts = verify_manifest(output, manifest)
+        counts = verify_manifest(staging, manifest)
+        replace_output(staging, output)
+    except Exception:
+        if staging.exists():
+            shutil.rmtree(staging)
+        raise
+
     return {"copied_files": len(copied), **counts}
 
 

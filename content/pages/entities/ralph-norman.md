@@ -4,19 +4,21 @@ aliases: []
 party: Republican
 office: U.S. Senate
 status: evergreen
-electoral_status: congressman (SC-5), running in special primary Aug 11
-last_updated: 2026-08-04
-source_count: 3
+electoral_status: congressman (SC-5), advanced to special-primary runoff
+last_updated: 2026-08-11
+source_count: 5
 confidence: high
 sources:
   - "https://en.wikipedia.org/wiki/Ralph_Norman"
   - "https://ralphnormanforsenate.com"
   - "https://ballotpedia.org/United_States_Senate_election_in_South_Carolina,_2026"
-modified: 2026-08-04
+  - "https://scvotes.gov/elections-statistics/election-results/"
+  - "https://apnews.com/live/election-primary-08-11-2026"
+modified: 2026-08-11
 ---
 # Ralph Norman
 
-**Status:** U.S. Representative for SC-5 (2017-present), running in the Aug 11 special GOP primary.
+**Status:** U.S. Representative for SC-5 (2017-present); advanced to the Aug. 25 special GOP runoff against Darline Graham. The Associated Press called the runoff pair; official SC Votes totals were inaccessible from this research environment.
 
 ## Background
 
@@ -37,3 +39,5 @@ modified: 2026-08-04
 - https://en.wikipedia.org/wiki/Ralph_Norman
 - https://ralphnormanforsenate.com
 - https://ballotpedia.org/United_States_Senate_election_in_South_Carolina,_2026
+- https://scvotes.gov/elections-statistics/election-results/
+- https://apnews.com/live/election-primary-08-11-2026

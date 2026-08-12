@@ -4,19 +4,21 @@ aliases: []
 party: Republican
 office: U.S. Senate
 status: evergreen
-electoral_status: appointed incumbent, running in special primary
-last_updated: 2026-08-04
-source_count: 3
-confidence: medium
+electoral_status: appointed incumbent, advanced to special-primary runoff
+last_updated: 2026-08-11
+source_count: 5
+confidence: high
 sources:
   - "https://ballotpedia.org/Darline_Graham"
   - "https://darlinegrahamsc.com"
   - "https://ballotpedia.org/United_States_Senate_election_in_South_Carolina,_2026"
-modified: 2026-08-04
+  - "https://scvotes.gov/elections-statistics/election-results/"
+  - "https://apnews.com/live/election-primary-08-11-2026"
+modified: 2026-08-11
 ---
 # Darline Graham
 
-**Status:** Appointed U.S. Senator (July 13, 2026), running in the Aug 11 special GOP primary.
+**Status:** Appointed U.S. Senator (July 13, 2026); advanced to the Aug. 25 special GOP runoff against Ralph Norman. The Associated Press called the runoff pair; official SC Votes totals were inaccessible from this research environment.
 
 ## Background
 
@@ -38,3 +40,5 @@ modified: 2026-08-04
 - https://ballotpedia.org/Darline_Graham
 - https://darlinegrahamsc.com
 - https://ballotpedia.org/United_States_Senate_election_in_South_Carolina,_2026
+- https://scvotes.gov/elections-statistics/election-results/
+- https://apnews.com/live/election-primary-08-11-2026

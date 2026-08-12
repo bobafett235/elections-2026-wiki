@@ -1,8 +1,6 @@
 # Public publisher
 
-`publish_public.py` copies the reviewed subset of the private Obsidian vault into Quartz's `content/` directory.
-
-The private vault remains the canonical workspace. This script intentionally clears the output directory before copying so deleted or renamed private pages cannot remain public by accident.
+`publish_public.py` copies the reviewed subset of the private Obsidian vault into Quartz's `content/` directory. It stages and validates a complete replacement before atomically swapping it into place, so a rejected export cannot erase the last known-good public tree.
 
 ## Publish the current reviewed vault
 
@@ -11,6 +9,8 @@ python3 tools/publish_public.py \
   --vault "/Users/levibates/Library/Mobile Documents/iCloud~md~obsidian/Documents/Levi's Vault/Elections 2026 Wiki" \
   --output content
 ```
+
+The publisher stages every export beside `content/`, runs the safety and manifest checks against that staged tree, and swaps it into place only after those checks pass. A rejected export leaves the last known-good `content/` tree untouched.
 
 The publisher currently expects:
 
