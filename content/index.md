@@ -32,15 +32,15 @@ Start here: [[about|About, methodology, and disclaimer]] · [[changelog|Public c
 - [[pages/entities/darline-graham|Darline Graham]] (R) - appointed incumbent; Aug 25 runoff finalist
 - [[pages/entities/russell-fry|Russell Fry]] (R) - SC-7 congressman; did not advance from Senate primary
 - [[pages/entities/ralph-norman|Ralph Norman]] (R) - SC-5 congressman; Aug 25 runoff finalist
-- [[pages/entities/mark-sanford|Mark Sanford]] (R) - ex-governor; debt-focused campaign
+- [[pages/entities/mark-sanford|Mark Sanford]] (R) - ex-governor; conceded Aug 11 primary
 - [[pages/entities/mark-lynch|Mark Lynch]] (R) - appliance businessman; 28.9% in June primary
 - [[pages/entities/mark-mcbride|Mark McBride]] (R) - ex-Myrtle Beach mayor
 - [[pages/entities/duke-buckner|Duke Buckner]] (R) - attorney; ex-Walterboro councilman
 - [[pages/entities/danny-ford|Danny Ford]] (R) - reinstated by court order to the Aug 11 ballot; did not advance
 - [[pages/entities/glenda-gail-parker|Glenda Gail Parker]] (R) - ex-Air Force financial manager; lost Aug 11 primary
 - [[pages/entities/sam-shepherd|Sam Shepherd]] (R) - engineer and DARPA veteran; lost Aug 11 primary
-- [[pages/entities/annie-andrews|Annie Andrews]] (D) - pediatrician; Dem nominee, 61.5% primary
-- [[pages/entities/kasie-whitener|Kasie Whitener]] (L) - USC professor, author, radio host
+- [[pages/entities/annie-andrews|Annie Andrews]] (D) - pediatrician; Dem nominee, $10M+ raised
+- [[pages/entities/kasie-whitener|Kasie Whitener]] (L) - USC professor, author, radio host; PhD
 - [[pages/entities/mark-hackett|Mark Hackett]] (Constitution) - repeat minor-party House nominee
 - [[pages/entities/jack-ellison|Jack Ellison]] (I) - also filed for SC-1 House primary (not on that ballot)
 - [[pages/entities/cindy-glaser|Cindy Glaser]] (I) - little public info
@@ -57,9 +57,9 @@ Start here: [[about|About, methodology, and disclaimer]] · [[changelog|Public c
 
 ## Entities - Governor and statewide
 
-- [[pages/entities/alan-wilson|Alan Wilson]] (R) - sitting AG; law-and-order platform
+- [[pages/entities/alan-wilson|Alan Wilson]] (R) - sitting AG; law-and-order, income tax elimination
 - [[pages/entities/mike-reichenbach|Mike Reichenbach]] (R) - SD-31 senator; first Black Republican state senator
-- [[pages/entities/jermaine-johnson|Jermaine Johnson]] (D) - HD-52 rep; underfunded programs, felon reentry
+- [[pages/entities/jermaine-johnson|Jermaine Johnson]] (D) - HD-52 rep; housing, labor, felon reentry
 - [[pages/entities/sam-skardon|Sam Skardon]] (D) - LG running mate; ex-John Lewis aide
 - [[pages/entities/walid-hakim|Walid Hakim]] (Green) - Marine vet; "100 Year Plan"
 - [[pages/entities/michael-addison|Michael Addison]] (UC) - physician; "Unlocking Potential, Together"

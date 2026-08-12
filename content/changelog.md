@@ -10,6 +10,11 @@ modified: 2026-08-12
 ---
 # Public changelog
 
+## 2026-08-12: Frontrunner profile refresh
+
+- Refreshed the five top-of-ticket profiles with current-cycle sources: Alan Wilson (income tax elimination, human trafficking record, seven-AG endorsements), Jermaine Johnson (affordable housing and labor council proposals), Annie Andrews (over $10M raised per FEC, measles and Medicaid platform), Mark Sanford (concession sourced), and Kasie Whitener (full academic and party record).
+- Every profile now cites campaign sites plus reputable news, with campaign claims attributed and uncertainty markers preserved.
+
 ## 2026-08-12: Verified-source expansion across candidate profiles
 
 - Expanded 21 candidate pages with verified background and platform material from campaign sites, official state office pages, local news, and candidate surveys. Standouts: Catherine Fleming Bruce (Senate write-in, author and preservationist), Sam Skardon (ex-John Lewis aide running for lieutenant governor), Eunice Lehmacher (SC-3 Democratic platform from her voter survey), and the statewide Democratic challengers (Belton, Boozer, Coe).
