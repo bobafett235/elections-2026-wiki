@@ -10,6 +10,13 @@ modified: 2026-08-12
 ---
 # Public changelog
 
+## 2026-08-12: Verified-source expansion across candidate profiles
+
+- Expanded 21 candidate pages with verified background and platform material from campaign sites, official state office pages, local news, and candidate surveys. Standouts: Catherine Fleming Bruce (Senate write-in, author and preservationist), Sam Skardon (ex-John Lewis aide running for lieutenant governor), Eunice Lehmacher (SC-3 Democratic platform from her voter survey), and the statewide Democratic challengers (Belton, Boozer, Coe).
+- Updated the U.S. House statewide overview with verified November fields: SC-1 is an open seat (Honeycutt, Lacore, Reeside), SC-7 is competitive (Fry vs Vincent, campaign poll at 37-41), SC-6 is Clyburn vs Peterson; SC-5 remains unconfirmed.
+- Corrected primary outcomes: Glenda Gail Parker and Sam Shepherd lost the Aug. 11 Senate special primary; Don Chapman's June 23 HD-8 runoff win is now directly sourced.
+- All updates preserved uncertainty markers and campaign-claim attribution; profiles with no public information still say so.
+
 ## 2026-08-12: Table-cell link repair on race pages
 
 - Repaired 12 broken candidate links inside the County Council and Anderson SD4 race tables. Quartz resolves links in table cells against the content root, so the previously used `../entities/...` form emitted 404 hrefs.
