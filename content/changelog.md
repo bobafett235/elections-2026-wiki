@@ -10,6 +10,12 @@ modified: 2026-08-12
 ---
 # Public changelog
 
+## 2026-08-12: Table-cell link repair on race pages
+
+- Repaired 12 broken candidate links inside the County Council and Anderson SD4 race tables. Quartz resolves links in table cells against the content root, so the previously used `../entities/...` form emitted 404 hrefs.
+- Replaced them with content-root relative links (`pages/entities/...`), which render correctly at any page depth.
+- Strengthened the validation gate with a table-cell link rule and regression tests, so a future export with this pattern fails before deployment.
+
 ## 2026-08-12: Anderson County Council candidate pages and source links
 
 - Added seven verified candidate pages for the Anderson County Council November field (Districts 1 through 6), each citing SC Votes candidate records, county council profiles, and local reporting: Chris Sullivan, Dave Shalaby, Glenn Davis, Greg Elgin, James Hayes, Jimmy Davis, and Josh Mann.
