@@ -51,7 +51,7 @@ Start here: [[about|About, methodology, and disclaimer]] · [[changelog|Public c
 
 ## Entities - U.S. House
 
-- [[pages/entities/sheri-biggs|Sheri Biggs]] (R) - SC-3 incumbent, nurse practitioner
+- [[pages/entities/sheri-biggs|Sheri Biggs]] (R) - SC-3 incumbent; nurse practitioner, ANG officer, Freedom Caucus
 - [[pages/entities/eunice-lehmacher|Eunice Lehmacher]] (D) - Oconee social worker; iVoterGuide survey ingested
 - [[pages/entities/brian-corriea|Brian Corriea]] (L) - Navy vet; SC Libertarian Party nominee
 
