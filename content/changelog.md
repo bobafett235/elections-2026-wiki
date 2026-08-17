@@ -10,6 +10,13 @@ modified: 2026-08-17
 ---
 # Public changelog
 
+## 2026-08-17: Runoff debate broadcast, Salute to Liberty, and independent-field verification
+
+- Detailed the Aug 18 runoff debate: Greta Van Susteren moderates, with Van Hipp and Gavin Jackson on the panel, broadcast and streamed statewide by SCETV.
+- Noted President Trump's Aug 11 pledge to campaign for Graham in the runoff.
+- Covered Biggs' second annual Salute to Liberty dinner (Aug 17, Anderson Sports & Entertainment Center) with Scalise, Jordan, Meadows, and Alan Wilson as speakers.
+- Verified the November Senate field against the official SC Votes record: the five Ballotpedia-listed Independents (Ellison, Glaser, Sedletsky, Strunge, Wright-McDonald) do not appear on the record and are now marked [unverified]; Andrews, Whitener, and Hackett remain the certified candidates alongside the pending GOP slot.
+
 ## 2026-08-17: November candidate pages, Pendleton district confirmation, runoff endorsements
 
 - Added 11 candidate pages for the verified November fields: Anderson SD4 Area 4 (Brandon E Bailey, Anna Leavitt, Dustin Williams), the statewide third-party candidates (Baba Amin Ojuok for Superintendent, Chris Nelums and Michael Sullens for Agriculture Commissioner), and the SC-2/SC-5 House fields (Zyon Khalifa, Dayna Alane Smith, Wes Climer, Mallory Dittmer, Andy Kaplan). Thin pages are honest about the little public info available.

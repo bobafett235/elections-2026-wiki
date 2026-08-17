@@ -53,6 +53,10 @@ The August 4 Candidate Tracking snapshot reflected the final 10-candidate ballot
 
 On July 15, the State Election Commission stated that a candidate may appear on a general-election ballot for more than one office. A candidate's Senate-primary participation therefore does not by itself establish that the candidate vacated, or cannot appear on the ballot for, a U.S. House seat.
 
+## General-election record check (Aug 17, 2026)
+
+The Candidate Tracking listing for the November 3 Statewide General Election (election 22596) was re-pulled via the candidate-search endpoint on Aug 17, 2026. Active U.S. Senate records: Annie Andrews (Democratic), Kasie Whitener (Libertarian), and Mark Hackett (Constitution); the Republican slot remains under Lindsey Graham with status "Deceased After Primary" pending the Aug 25 runoff certification. Ballotpedia's five Independent Senate candidates (Jack Ellison, Cindy Glaser, Paul Sedletsky, Edward Strunge, Reece Wright-McDonald) do not appear anywhere in the record, so their November ballot status is [unverified]. The record does list petition candidates that failed to qualify (e.g. "Petition Failed" status), so an absent name means no filed record as of the pull. Anderson County Council D2 (Davis/Hayes), D4 (Shalaby), D7 (Alexander Active, M. Cindy Wilson Defeated In Primary), SD4 Areas 2/4/5, HD-8, and all seven House fields were re-confirmed unchanged.
+
 ## Integration rules
 
 - Use SC Votes first for current candidate status, filing deadlines, special-election mechanics, and official results.

@@ -18,7 +18,7 @@ Start here: [[about|About, methodology, and disclaimer]] · [[changelog|Public c
 
 ## Races
 
-- [[pages/races/senate-2026|US Senate]] - Darline Graham vs Ralph Norman in Aug 25 special GOP runoff; certified Aug 11 primary totals recorded
+- [[pages/races/senate-2026|US Senate]] - Darline Graham vs Ralph Norman in Aug 25 special GOP runoff; debate Aug 18, early voting Aug 19-21; certified Aug 11 totals recorded
 - [[pages/races/governor-2026|Governor]] - Wilson/Reichenbach (R) vs Johnson/Skardon (D); open seat, McMaster term-limited; 12-issue disagreement table
 - [[pages/races/statewide-offices-2026|Statewide Offices]] - AG, SoS, Treasurer, Comptroller, Supt, Ag Commissioner; disagreement summaries per office
 - [[pages/races/us-house-sc3-2026|US House SC-3]] - Biggs (R, inc) vs Lehmacher (D) vs Corriea (L); three-way disagreement table
@@ -42,16 +42,16 @@ Start here: [[about|About, methodology, and disclaimer]] · [[changelog|Public c
 - [[pages/entities/annie-andrews|Annie Andrews]] (D) - pediatrician; Dem nominee, $10M+ raised
 - [[pages/entities/kasie-whitener|Kasie Whitener]] (L) - USC professor, author, radio host; PhD
 - [[pages/entities/mark-hackett|Mark Hackett]] (Constitution) - repeat minor-party House nominee
-- [[pages/entities/jack-ellison|Jack Ellison]] (I) - also filed for SC-1 House primary (not on that ballot)
-- [[pages/entities/cindy-glaser|Cindy Glaser]] (I) - little public info
-- [[pages/entities/paul-sedletsky|Paul Sedletsky]] (I) - little public info
-- [[pages/entities/edward-strunge|Edward Strunge]] (I) - little public info
-- [[pages/entities/reece-wright-mcdonald|Reece Wright-McDonald]] (I) - 2024 presidential also-ran
+- [[pages/entities/jack-ellison|Jack Ellison]] (I) - also filed for SC-1 House primary (not on that ballot); November ballot status [unverified]
+- [[pages/entities/cindy-glaser|Cindy Glaser]] (I) - little public info; November ballot status [unverified]
+- [[pages/entities/paul-sedletsky|Paul Sedletsky]] (I) - little public info; November ballot status [unverified]
+- [[pages/entities/edward-strunge|Edward Strunge]] (I) - little public info; November ballot status [unverified]
+- [[pages/entities/reece-wright-mcdonald|Reece Wright-McDonald]] (I) - 2024 presidential also-ran; November ballot status [unverified]
 - [[pages/entities/catherine-fleming-bruce|Catherine Fleming Bruce]] (D) - write-in candidate; author and preservationist
 
 ## Entities - U.S. House
 
-- [[pages/entities/sheri-biggs|Sheri Biggs]] (R) - SC-3 incumbent; nurse practitioner, ANG officer, Freedom Caucus
+- [[pages/entities/sheri-biggs|Sheri Biggs]] (R) - SC-3 incumbent; nurse practitioner, ANG officer, Freedom Caucus; hosts annual Salute to Liberty dinner
 - [[pages/entities/eunice-lehmacher|Eunice Lehmacher]] (D) - Oconee social worker; iVoterGuide survey ingested
 - [[pages/entities/brian-corriea|Brian Corriea]] (L) - Navy vet; SC Libertarian Party nominee
 - [[pages/entities/zyon-khalifa|Zyon Khalifa]] (D, SC-2) - former USC athlete and attorney; won Dem runoff
