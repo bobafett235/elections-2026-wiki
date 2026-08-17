@@ -250,11 +250,18 @@ def check_manifest(files: list[Path], content_root: Path, manifest: dict) -> lis
 
 
 def check_governor_dispute(content_root: Path) -> list[str]:
+    """The Governor result discrepancy was resolved on 2026-08-17 against the
+    certified SC Election Commission ENR record. The page must now carry the
+    resolution wording (an 'official record confirms' statement) instead of an
+    open [disputed] marker."""
     path = content_root / "pages" / "races" / "governor-2026.md"
     if not path.is_file():
         return ["required Governor page is missing"]
-    if "[disputed]" not in path.read_text(encoding="utf-8"):
-        return ["Governor result discrepancy lost its required [disputed] marker"]
+    text = path.read_text(encoding="utf-8")
+    if "[disputed]" in text and "official record confirms" not in text:
+        return ["Governor page still carries an unresolved [disputed] marker; reconcile with the certified ENR record"]
+    if "official record confirms" not in text:
+        return ["Governor result resolution wording missing; page must state the certified ENR figures"]
     return []
 
 
@@ -296,7 +303,7 @@ def main() -> int:
     print(f"  Obsidian wikilinks: {summary['wikilinks']}")
     print(f"  Relative Markdown links: {summary['markdown_internal_links']}")
     print("  Broken internal links: 0")
-    print("  Governor [disputed] marker: present")
+    print("  Governor results: reconciled with certified ENR (no open dispute)")
     return 0
 
 

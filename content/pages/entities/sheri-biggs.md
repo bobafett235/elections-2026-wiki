@@ -5,16 +5,18 @@ party: Republican
 office: U.S. House, SC-3
 status: evergreen
 electoral_status: incumbent
-last_updated: 2026-08-12
-source_count: 5
+last_updated: 2026-08-17
+sources_checked: 2026-08-17
+source_count: 6
 confidence: high
 sources:
   - "https://sheribiggs.house.gov/about"
+  - "https://sheribiggs.house.gov"
   - "https://en.wikipedia.org/wiki/Sheri_Biggs"
   - "https://ballotpedia.org/Sheri_Biggs"
   - "https://apnews.com/article/south-carolina-burns-biggs-runoff-sister-senators-330b71548d5e6b5058327055337c8a9b"
   - "https://www.fec.gov/data/elections/house/SC/03/2026/"
-modified: 2026-08-12
+modified: 2026-08-17
 ---
 # Sheri Biggs
 
@@ -33,6 +35,8 @@ modified: 2026-08-12
 ## Platform
 
 - Campaign profile emphasizes faith, military service, and working with President Trump on the district's pressing issues ([AP](https://apnews.com/article/south-carolina-burns-biggs-runoff-sister-senators-330b71548d5e6b5058327055337c8a9b))
+- Introduced the Improving Travel for Military Members Act to create dedicated TSA lanes for active-duty members ([sheribiggs.house.gov](https://sheribiggs.house.gov))
+- Supports school choice and parental empowerment ([BallotReady](https://www.ballotready.org/people/sheri-biggs))
 - Has not completed Ballotpedia's 2026 Candidate Connection survey; detailed 2026 issue positions not yet ingested [needs-source]
 
 ## Sources

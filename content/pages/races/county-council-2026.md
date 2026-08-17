@@ -53,6 +53,17 @@ Alexander's 2026 campaign emphasized stricter review of FILOT agreements, an ind
 
 Voters rejected the 1% capital-project sales tax on Nov. 4, 2025. County Administrator Rusty Burns said the council would not bring it back, according to the Independent Mail. Development, infrastructure, and public trust featured prominently in the 2026 council campaigns.
 
+## Where they disagree (as of Aug 17, 2026)
+
+District 2 is the only contested council race. The challenger Hayes has little public platform info, so the disagreement table is incomplete by necessity.
+
+| Dimension | Glenn Davis (D, incumbent, D2) | James Hayes (R, D2) |
+|---|---|---|
+| Focus | Public safety, managed growth, community outreach, transparency on council spending ([Independent Mail](https://www.independentmail.com/story/news/politics/elections/2026/06/03/whos-running-key-issues-in-anderson-county-council-primary/90175653007/)) | Little public info; previously ran for Anderson County Coroner in 2024 ([Ballotpedia](https://ballotpedia.org/James_Hayes_(Anderson_County_Coroner,_South_Carolina,_candidate_2024))) |
+| Community | Restoring parks and providing community activities ([WYFF 4](https://www.wyff4.com/article/anderson-county-council-district-2-candidates-election/41768616)) | Little public info |
+
+The dominant county-wide theme in 2026 is rapid growth outpacing infrastructure. Republican challengers Mann (D5) and Alexander (D7) successfully ran on that premise against incumbents, and Alexander specifically argued for stricter FILOT review standards ([Post and Courier](https://www.postandcourier.com/greenville/politics/anderson-county-election-incumbent-losses-growth/article_9fc9d9fa-8e24-446d-a830-48d7cc281b6d.html), [The Journal Online](https://thejournalonline.com/2026/04/30/collin-alexander-announces-for-county-council-7-seat/)). Specific Davis-Hayes disagreements on FILOT, road funding, or the rejected penny tax remain unresolved for lack of public statements from Hayes [needs-source].
+
 ## Sources
 
 - https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22598

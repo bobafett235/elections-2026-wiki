@@ -5,15 +5,18 @@ party: Democratic
 office: Anderson County Council District 2
 status: evergreen
 electoral_status: incumbent, active general-election candidate
-last_updated: 2026-08-12
-source_count: 4
+last_updated: 2026-08-17
+sources_checked: 2026-08-17
+source_count: 6
 confidence: high
 sources:
   - "https://vrems.scvotes.sc.gov/Candidate/CandidateDetail/?candidateId=23646&electionId=22596&searchType=Default"
   - "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
   - "https://www.andersoncountysc.org/government/county-council/"
   - "https://www.andersonobserver.com/news/2026-election-season-officially-open"
-modified: 2026-08-12
+  - "https://www.independentmail.com/story/news/politics/elections/2026/06/03/whos-running-key-issues-in-anderson-county-council-primary/90175653007/"
+  - "https://www.wyff4.com/article/anderson-county-council-district-2-candidates-election/41768616"
+modified: 2026-08-17
 ---
 # Glenn Davis
 
@@ -26,7 +29,8 @@ modified: 2026-08-12
 
 ## Platform
 
-- No current campaign platform source was located in this pass [needs-source].
+- Public safety, managed growth, increased community outreach, and transparency regarding council spending ([Independent Mail](https://www.independentmail.com/story/news/politics/elections/2026/06/03/whos-running-key-issues-in-anderson-county-council-primary/90175653007/))
+- Emphasis on restoring parks and providing community activities ([WYFF 4](https://www.wyff4.com/article/anderson-county-council-district-2-candidates-election/41768616))
 
 ## Sources
 

@@ -35,6 +35,18 @@ Pendleton (29670) is in SC-3 (Anderson, Oconee, Pickens and parts of Greenville/
 - [[pages/entities/eunice-lehmacher|Eunice Lehmacher]] (D) - medical social worker at Oconee Memorial; iVoterGuide survey ingested Aug 12
 - [[pages/entities/brian-corriea|Brian Corriea]] (L) - Navy veteran; SC Libertarian Party nominee
 
+## Where they disagree (as of Aug 17, 2026)
+
+| Issue | Sheri Biggs (R) | Eunice Lehmacher (D) | Brian Corriea (L) |
+|---|---|---|---|
+| Economic policy | No detailed 2026 issue survey on file; runs on faith, military service, and working with Trump on district issues ([AP](https://apnews.com/article/south-carolina-burns-biggs-runoff-sister-senators-330b71548d5e6b5058327055337c8a9b)) | $15 minimum wage; lower utility costs via clean energy; make housing and groceries more affordable; infrastructure investment ([iVoterGuide](https://ivoterguide.com/candidate/82864/race/16287/election/1229?culture=en-us), [Greenville Online](https://www.greenvilleonline.com/)) | Individual liberty, free markets, limited government; completely free-market economy based on property rights (SCLP platform, [sclp.org](https://sclp.org/candidates/)) |
+| Education funding | Supports school choice and parental empowerment ([BallotReady](https://www.ballotready.org/people/sheri-biggs)) | Opposes taxpayer funding for private education, asserts it violates the SC constitution ([iVoterGuide](https://ivoterguide.com/candidate/82864/race/16287/election/1229?culture=en-us)) | Government should not fund education; parents/individuals decide (SCLP platform, [sclp.org](https://sclp.org/candidates/)) |
+| Guns | Second Amendment supporter; no 2026 survey detail found | Supports background checks on all gun purchases and safe-storage laws for homes with children ([iVoterGuide](https://ivoterguide.com/candidate/82864/race/16287/election/1229?culture=en-us)) | Strong Second Amendment defender (SCLP platform, [sclp.org](https://sclp.org/candidates/)) |
+| Abortion | Pro-life; no 2026 survey detail found | Supports taxpayer funds for low-income women's reproductive health care ([iVoterGuide](https://ivoterguide.com/candidate/82864/race/16287/election/1229?culture=en-us)) | Pro-choice on the principle of bodily autonomy (SCLP platform, [sclp.org](https://sclp.org/candidates/)) |
+| Spending | Supports Trump agenda and defense posture; no detailed fiscal survey found | Prioritizes social investment (labor, health, education) | Deep spending cuts; opposes government expansion (SCLP platform, [sclp.org](https://sclp.org/candidates/)) |
+
+Biggs' platform is the thinnest of the three for 2026: she has not completed Ballotpedia's or iVoterGuide's 2026 surveys, so her column reflects her public record and campaign framing rather than a finalized issue platform [needs-source].
+
 ## Sources
 
 - https://vrems.scvotes.sc.gov/Candidate/SelectElection

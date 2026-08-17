@@ -12,20 +12,20 @@ modified: 2026-08-12
 
 > Content catalog. Every wiki page listed under its section with a one-line summary.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-12 | Total pages: 74 (8 races, 54 candidates, 12 source notes)
+> Last updated: 2026-08-17 | Total pages: 74 (8 races, 54 candidates, 12 source notes)
 
 Start here: [[about|About, methodology, and disclaimer]] · [[changelog|Public changelog]] · [Source repository](https://github.com/bobafett235/elections-2026-wiki)
 
 ## Races
 
-- [[pages/races/senate-2026|US Senate]] - Darline Graham vs Ralph Norman in Aug 25 special GOP runoff; official totals pending accessible SC Votes ENR record
-- [[pages/races/governor-2026|Governor]] - Wilson/Reichenbach (R) vs Johnson/Skardon (D); open seat, McMaster term-limited
-- [[pages/races/statewide-offices-2026|Statewide Offices]] - AG, SoS, Treasurer, Comptroller, Supt, Ag Commissioner
-- [[pages/races/us-house-sc3-2026|US House SC-3]] - Biggs (R, inc) vs Lehmacher (D) vs Corriea (L)
-- [[pages/races/us-house-sc-overview-2026|US House statewide overview]] - all seven districts; SC-1 open (Honeycutt/Lacore/Reeside), SC-7 competitive (Fry vs Vincent); SC-5 field still unconfirmed
-- [[pages/races/hd8-2026|SC House HD-8]] - Chapman (R, inc) vs Carson (D)
-- [[pages/races/county-council-2026|Anderson County Council]] - all 7 seats up; D7 = Pendleton; penny tax rejected Nov 2025
-- [[pages/races/sd4-board-2026|Anderson SD4 School Board]] - Areas 2, 4, 5 expected up; no challengers found yet
+- [[pages/races/senate-2026|US Senate]] - Darline Graham vs Ralph Norman in Aug 25 special GOP runoff; certified Aug 11 primary totals recorded
+- [[pages/races/governor-2026|Governor]] - Wilson/Reichenbach (R) vs Johnson/Skardon (D); open seat, McMaster term-limited; 12-issue disagreement table
+- [[pages/races/statewide-offices-2026|Statewide Offices]] - AG, SoS, Treasurer, Comptroller, Supt, Ag Commissioner; disagreement summaries per office
+- [[pages/races/us-house-sc3-2026|US House SC-3]] - Biggs (R, inc) vs Lehmacher (D) vs Corriea (L); three-way disagreement table
+- [[pages/races/us-house-sc-overview-2026|US House statewide overview]] - all seven November fields verified via SC Votes; SC-5 open (Climer/Dittmer/Kaplan), SC-2 Khalifa, SC-7 Fry/Vincent
+- [[pages/races/hd8-2026|SC House HD-8]] - Chapman (R, inc) vs Carson (D); partial disagreement table
+- [[pages/races/county-council-2026|Anderson County Council]] - all 7 seats up; D2 contested (Davis vs Hayes); penny tax rejected Nov 2025
+- [[pages/races/sd4-board-2026|Anderson SD4 School Board]] - Areas 2, 4, 5 verified up; Area 4 three-way (Bailey/Leavitt/Williams), Grate and Mock running unopposed
 
 ## Entities - U.S. Senate
 
@@ -57,9 +57,9 @@ Start here: [[about|About, methodology, and disclaimer]] · [[changelog|Public c
 
 ## Entities - Governor and statewide
 
-- [[pages/entities/alan-wilson|Alan Wilson]] (R) - sitting AG; law-and-order, income tax elimination
+- [[pages/entities/alan-wilson|Alan Wilson]] (R) - sitting AG; income tax elimination, law and order, full iVoterGuide platform
 - [[pages/entities/mike-reichenbach|Mike Reichenbach]] (R) - SD-31 senator; first Black Republican state senator
-- [[pages/entities/jermaine-johnson|Jermaine Johnson]] (D) - HD-52 rep; housing, labor, felon reentry
+- [[pages/entities/jermaine-johnson|Jermaine Johnson]] (D) - HD-52 rep; 70% income-tax exemption, livable minimum wage, cannabis referendum
 - [[pages/entities/sam-skardon|Sam Skardon]] (D) - LG running mate; ex-John Lewis aide
 - [[pages/entities/walid-hakim|Walid Hakim]] (Green) - Marine vet; "100 Year Plan"
 - [[pages/entities/michael-addison|Michael Addison]] (UC) - physician; "Unlocking Potential, Together"
@@ -78,8 +78,8 @@ Start here: [[about|About, methodology, and disclaimer]] · [[changelog|Public c
 
 ## Entities - Local (Pendleton / Anderson County)
 
-- [[pages/entities/don-chapman|Don Chapman]] (R) - HD-8 incumbent; won June runoff vs Hodges
-- [[pages/entities/demetrius-carson|Demetrius Carson]] (D) - HD-8 challenger; uncontested in Dem primary
+- [[pages/entities/don-chapman|Don Chapman]] (R) - HD-8 incumbent; roads, teacher pay, school choice platform
+- [[pages/entities/demetrius-carson|Demetrius Carson]] (D) - HD-8 challenger; uncontested in Dem primary; no public platform yet
 - [[pages/entities/glenn-davis|Glenn Davis]] (D) - County Council D2 incumbent; only contested council race
 - [[pages/entities/jimmy-davis|Jimmy Davis]] (R) - County Council D6 incumbent
 - [[pages/entities/greg-elgin|Greg Elgin]] (R) - County Council D3 incumbent
@@ -89,9 +89,9 @@ Start here: [[about|About, methodology, and disclaimer]] · [[changelog|Public c
 - [[pages/entities/chris-sullivan|Chris Sullivan]] (R) - County Council D1 incumbent
 - [[pages/entities/cindy-wilson|M. Cindy Wilson]] (R) - County Council D7 incumbent, defeated in primary
 - [[pages/entities/collin-alexander|Collin Alexander]] (R) - County Council D7 nominee; beat Wilson by 38 votes
-- [[pages/entities/paulette-grate|Paulette Grate]] (NP) - SD4 board Area 2 vice chair
-- [[pages/entities/diana-mullikin|Diana Mullikin]] (NP) - SD4 board Area 4
-- [[pages/entities/brad-mock|Brad Mock]] (NP) - SD4 board Area 5
+- [[pages/entities/paulette-grate|Paulette Grate]] (NP) - SD4 board Area 2 vice chair; running unopposed
+- [[pages/entities/diana-mullikin|Diana Mullikin]] (NP) - SD4 board Area 4; not running in 2026
+- [[pages/entities/brad-mock|Brad Mock]] (NP) - SD4 board Area 5; running unopposed
 
 ## Sources
 

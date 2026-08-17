@@ -2,13 +2,26 @@
 tags: [meta]
 aliases: [Public changelog]
 status: evergreen
-last_updated: 2026-08-12
+last_updated: 2026-08-17
 source_count: 0
 confidence: high
 sources: []
-modified: 2026-08-12
+modified: 2026-08-17
 ---
 # Public changelog
+
+## 2026-08-17: Finalized candidate platforms and disagreement tables
+
+- Added "Where they disagree" comparisons to every race page. The Governor race now has a 12-issue table (taxes, minimum wage, education, healthcare, public safety, housing, abortion, immigration, energy, cannabis, guns); the Senate runoff is characterized as a biography-and-emphasis contest between two Trump-aligned candidates; the statewide offices, SC-3, HD-8, and county council each have per-race disagreement summaries.
+- Expanded candidate platforms from first-party sources: Wilson (iVoterGuide survey and priorities page), Johnson (campaign policies page: 70% income-tax exemption, livable minimum wage, rural hospitals, mental-health response teams, housing grant program, cannabis referendum), Graham and Norman (campaign sites), Chapman (campaign and BallotReady), Davis (Independent Mail and WYFF), and others.
+- Honest about gaps: Carson, Blanding (detailed), Hayes, the SD4 Area 4 field, and Biggs' 2026 surveys remain unsourced and are marked [needs-source] rather than padded.
+
+## 2026-08-17: Official results reconciled; all House fields verified
+
+- Resolved the standing Governor result discrepancy with the certified State Election Commission record: Alan Wilson won the June 23 runoff with 68.56% (218,569 votes) and Jermaine Johnson won the June 9 primary with 59.67% (221,951 votes). The official figures supersede the previously cited secondary numbers.
+- Added the certified Aug. 11 Senate special-primary totals (Graham 32.75%, Norman 24.62%, Fry 19.66%, Sanford 14.94%, Lynch 5.93%, five others) and the runoff eligibility rule: voters who participated in the June Democratic primary cannot vote in the Aug. 25 special Republican runoff.
+- Verified all seven U.S. House November fields against the official SC Votes candidate record. Two corrections: SC-2's Democratic nominee is Zyon Khalifa (not David Robinson II), with Dayna Alane Smith (Workers) also on the ballot; SC-5 is an open seat with Wes Climer (R), Mallory Dittmer (D), and Andy Kaplan (Forward), and Ralph Norman is not on the November ballot.
+- Verified the Anderson SD4 school board field: Areas 2, 4, and 5 are on the ballot; Area 4 is a three-way race (Bailey, Leavitt, Williams) and Diana Mullikin is not running.
 
 ## 2026-08-12: Frontrunner profile refresh
 

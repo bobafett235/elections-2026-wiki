@@ -26,7 +26,10 @@ modified: 2026-08-12
 
 ## Platform
 
-- Little public platform info located in this pass [needs-source]
+- Adheres to the SC Libertarian Party platform: individual liberty, free markets, limited government ([sclp.org](https://sclp.org/candidates/))
+- Supports a completely free-market economy based on universal respect for property rights ([sclp.org](https://sclp.org/candidates/))
+- SCLP platform is pro-choice on bodily autonomy, strongly pro-Second Amendment, and against government funding of education ([sclp.org](https://sclp.org/candidates/))
+- Individual 2026 issue positions beyond the party platform not located in this pass [needs-source]
 
 ## Sources
 

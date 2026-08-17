@@ -4,10 +4,12 @@ aliases: ["South Carolina U.S. House"]
 office: U.S. House, South Carolina districts 1-7
 status: evergreen
 race_status: active
-last_updated: 2026-08-12
-source_count: 15
-confidence: medium
+last_updated: 2026-08-17
+sources_checked: 2026-08-17
+source_count: 16
+confidence: high
 sources:
+  - "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
   - "https://ballotpedia.org/United_States_House_of_Representatives_elections_in_South_Carolina,_2026"
   - "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina"
   - "https://scvotes.gov/sec-addresses-ballot-question/"
@@ -23,43 +25,43 @@ sources:
   - "https://holycitysinner.com/politics/new-poll-vincent-and-fry-in-statistical-dead-heat-in-south-c/"
   - "https://scdp.org/press-release/russell-fry-abandons-sc-7-for-a-shot-at-u-s-senate/"
   - "https://scdailygazette.com/2025/04/17/navy-veteran-hopes-to-be-first-democrat-to-win-grand-strand-and-pee-dee-congressional-seat/"
-modified: 2026-08-12
+modified: 2026-08-17
 ---
 # U.S. House, South Carolina districts 1-7 (2026)
 
-South Carolina will elect one U.S. representative from each of its seven congressional districts on November 3, 2026. The primary was June 9 and the primary runoff was June 23. This page is an at-a-glance map; detailed candidate coverage exists for SC-3, the district on Pendleton's ballot. Ballotpedia notes that its candidate lists may be incomplete.
+South Carolina will elect one U.S. representative from each of its seven congressional districts on November 3, 2026. The primary was June 9 and the primary runoff was June 23. This page is an at-a-glance map; detailed candidate coverage exists for SC-3, the district on Pendleton's ballot. The November fields below are verified against the official SC Votes candidate-tracking record for the Nov 3 general election (election ID 22596), accessed Aug 17, 2026.
 
 ## Race status
 
 - Primary: June 9, 2026
 - Runoff: June 23, 2026 if needed
 - General election: November 3, 2026
-- Candidate field: verified for SC-1, SC-2, SC-3, SC-4, SC-6, and SC-7 as of Aug 12, 2026; SC-5 still needs a direct filing check [needs-source]
+- Candidate field: **all seven districts verified** against the official SC Votes general-election record (Aug 17, 2026)
 - Ratings: none in the current overview sources
 
-## At a glance (verified as of 2026-08-12)
+## At a glance (official SC Votes general-election record, 2026-08-17)
 
 | District | November candidates | Notes |
 |---|---|---|
-| 1 | Jenny Costa Honeycutt (R); Nancy Lacore (D); William Reeside (L) | Open seat: Mace ran for governor and lost the June 9 primary. Honeycutt beat Mark Smith in the June 23 runoff (AP). |
-| 2 | Joe Wilson (R, incumbent); David Robinson II (D) | Wilson seeking his 13th term; Robinson is a Democrat and military veteran. |
+| 1 | Jenny Costa Honeycutt (R); Nancy Lacore (D); Bill Reeside (L) | Open seat: Mace ran for governor and lost the June 9 primary. Honeycutt beat Mark Smith in the June 23 runoff (AP). |
+| 2 | Joe Wilson (R, incumbent); Zyon Khalifa (D); Dayna Alane Smith (Workers) | Khalifa won the Democratic runoff; David Robinson II was defeated in the primary. Wilson seeking his 13th term. |
 | 3 | Sheri Biggs (R, incumbent); Eunice Lehmacher (D); Brian Corriea (L) | Detailed coverage: [SC-3 race](us-house-sc3-2026) |
-| 4 | William Timmons (R, incumbent); Courtney McClain (D); Jessica Ethridge (L) | Timmons pledged in January 2026 that this is his final campaign before retiring in 2028. GOP primary included Robert E. Lee and David Atchley. |
-| 5 | Ralph Norman (R, incumbent) | Also advanced to the Aug. 25 Senate-primary runoff; SEC says candidates may appear on a general ballot for more than one office. Full field needs a filing check [needs-source]. |
-| 6 | Jim Clyburn (D, incumbent); John Peterson (R); Joseph Oddo (Alliance) | Peterson won the GOP primary with 74.04% (unofficial). Clyburn seeking his 18th term; Democratic primary challenger Frederick Goodwin. |
-| 7 | Russell Fry (R, incumbent); John Vincent (D) | Fry kept his House ballot spot while running for Senate and lost the Aug. 11 Senate primary. Aug. 4 campaign poll: Vincent 37%, Fry 41%, 22% undecided (Cook rates the district R+12). |
-
+| 4 | William Timmons (R, incumbent); Courtney McClain (D); Jessica Ethridge (L) | Timmons pledged in January 2026 that this is his final campaign before retiring in 2028. |
+| 5 | Wes Climer (R); Mallory Dittmer (D); Andy Kaplan (Forward) | **Norman is NOT on the SC-5 general ballot.** Ralph Norman ran for Senate and is not a candidate for his House seat; Climer is the Republican nominee for the open seat. This corrects the earlier unverified assumption that Norman might appear for both offices. |
+| 6 | Jim Clyburn (D, incumbent); John Peterson (R); Joseph Oddo (Alliance) | Clyburn seeking his 18th term. |
+| 7 | Russell Fry (R, incumbent); John Vincent (D) | **Fry is confirmed on the November ballot** despite losing the Aug. 11 Senate special primary; he kept his House filing. |
 ## Verification notes
 
-- SC-1: AP reported Honeycutt's runoff win over Mark Smith on June 23. Ballotpedia lists Libertarian William Reeside in the general. Nancy Lacore, a retired rear admiral, won the Democratic nomination; her campaign reports endorsements from Emily's List and VoteVets.
-- SC-4: Timmons' final-term pledge and the primary field (Robert E. Lee, David Atchley) come from Fox Carolina and Ballotpedia; the November Democratic and Libertarian challengers come from Ballotpedia.
-- SC-6: WJBF reported unofficial primary results (Clyburn 90.26% in the Democratic primary, Peterson 74.04% in the Republican primary); localcandidates.org lists a three-candidate general field including Alliance Party nominee Joseph Oddo.
-- SC-7: Fry kept his House candidacy while running for Senate (SC Democratic Party release). John Vincent, a retired Navy command master chief, suspended his campaign in May 2025 and later resumed it; the Aug. 4 poll is campaign-commissioned and not an independent survey.
-- SC Votes explains that candidates may appear on a general-election ballot for more than one office. Norman's Senate runoff therefore does not itself establish that SC-5 is vacant or that he cannot appear in the House field.
+- All seven November fields verified against the SC Votes Candidate Tracking general-election record (election 22596) on Aug 17, 2026: only records marked Active are listed above.
+- SC-2 correction: the wiki previously listed David Robinson II as the Democratic nominee. The official record shows Robinson as defeated in the primary and Zyon Khalifa as the Active Democratic candidate, with Dayna Alane Smith (Workers) also Active.
+- SC-5 correction: the wiki previously listed Ralph Norman as the incumbent candidate with the field unconfirmed. The official record shows Norman is not on the November ballot at all; the Active field is Climer (R), Dittmer (D), and Kaplan (Forward). This matches the pre-August research that described SC-5 as an open seat (Norman to Senate).
+- SC-1: AP reported Honeycutt's runoff win over Mark Smith on June 23. Nancy Lacore, a retired rear admiral, won the Democratic nomination; her campaign reports endorsements from Emily's List and VoteVets.
+- SC-7: Fry kept his House candidacy while running for Senate (SC Democratic Party release). The SC Votes record confirms Fry remains the Active Republican candidate for November. One research batch reported an additional "Adam Moye (Other)" candidate for SC-7 from aggregator sources, but the official SC Votes general-election record lists only Fry and Vincent as Active for SC-7; any Moye filing is not on the official record as of Aug 17 and is not added here [unverified]. The Aug. 4 poll is campaign-commissioned and not an independent survey.
 - This page is intentionally an at-a-glance map, not a substitute for a verified candidate page for every district.
 
 ## Sources
 
+- https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596
 - https://ballotpedia.org/United_States_House_of_Representatives_elections_in_South_Carolina,_2026
 - https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina
 - https://scvotes.gov/sec-addresses-ballot-question/

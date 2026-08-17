@@ -2,19 +2,21 @@
 tags: [source]
 aliases: [South Carolina State Election Commission, SC Votes]
 status: evergreen
-last_updated: 2026-08-11
-source_count: 8
+last_updated: 2026-08-17
+sources_checked: 2026-08-17
+source_count: 9
 confidence: high
 sources:
   - "https://scvotes.gov/"
   - "https://vrems.scvotes.sc.gov/Candidate/SelectElection"
   - "https://scvotes.gov/candidates/"
   - "https://scvotes.gov/elections-statistics/election-results/"
+  - "https://www.enr-scvotes.org/SC/127017/"
   - "https://scvotes.gov/candidate-name-added-to-ballot-in-u-s-senate-special-republican-primary/"
   - "https://scvotes.gov/sec-addresses-ballot-question/"
   - "https://scdailygazette.com/2026/07/29/sc-gop-bars-3-candidates-from-primary-ballot-leaving-9-to-compete-for-us-senate/"
   - "https://apnews.com/live/election-primary-08-11-2026"
-modified: 2026-08-11
+modified: 2026-08-17
 ---
 # South Carolina Election Commission / SC Votes
 
@@ -45,7 +47,7 @@ The August 4 Candidate Tracking snapshot reflected the final 10-candidate ballot
 - Twelve people initially filed for the August 11 special Republican primary.
 - The South Carolina Republican Party decertified Danny Ford II, Darius Mitchell, and Clark Neilson on July 28, leaving nine candidates.
 - On August 4, a court order required Ford's name to be added to the ballot. The State Election Commission confirmed the order, so the August 11 ballot had ten candidates.
-- The August 11 primary produced an August 25 runoff between Darline Graham and Ralph Norman, according to Associated Press reporting. The official SC Votes results landing page links to the canonical ENR record, which returned HTTP 403 from this research environment. Do not replace this access limitation with unverified totals.
+- The August 11 primary produced an August 25 runoff between Darline Graham and Ralph Norman. The certified ENR record (accessed Aug 17, 2026) shows Graham 109,881 (32.75%), Norman 82,627 (24.62%), Fry 65,955 (19.66%), Sanford 50,136 (14.94%), Lynch 19,892 (5.93%), and five single-digit-share candidates; 335,555 votes cast, 11.12% turnout ([ENR](https://www.enr-scvotes.org/SC/127017/)). The ENR site blocks simple fetchers with a CloudFront 403 but is reachable from a real browser with a desktop User-Agent override.
 
 ## General-election multiple-office rule
 

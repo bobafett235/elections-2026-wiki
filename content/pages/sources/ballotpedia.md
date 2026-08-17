@@ -2,12 +2,14 @@
 tags: [source]
 aliases: [Ballotpedia]
 status: evergreen
-last_updated: 2026-08-04
-source_count: 1
+last_updated: 2026-08-17
+sources_checked: 2026-08-17
+source_count: 2
 confidence: medium
 sources:
   - "https://ballotpedia.org/South_Carolina_elections,_2026"
-modified: 2026-08-04
+  - "https://www.enr-scvotes.org/SC/126718/"
+modified: 2026-08-17
 ---
 # Ballotpedia
 
@@ -31,4 +33,4 @@ Ballotpedia explicitly states that its candidate list may not include all local 
 
 ## Current wiki use
 
-Ballotpedia remains useful on nearly every race page, but new official source links should take precedence. The Governor page should retain disputed result markers until the official result endpoint is accessible and reconciled.
+Ballotpedia remains useful on nearly every race page, but new official source links should take precedence. On Aug 17, 2026, the certified State Election Commission ENR record resolved the Governor result dispute and showed Ballotpedia's published figures were wrong on both counts: Ballotpedia listed Alan Wilson at 68.4% / 211,555 votes in the June 23 runoff, while the certified record shows 68.56% / 218,569; Ballotpedia listed Jermaine Johnson at 221,751 votes, while the certified record shows 221,951. Lesson: do not promote Ballotpedia result figures to official status when the ENR record exists, even if the ENR fetch fails on the first attempt.
