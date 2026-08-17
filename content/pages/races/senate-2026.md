@@ -48,16 +48,16 @@ modified: 2026-08-17
 
 | Candidate | Votes | Share |
 |---|---|---|
-| [[pages/entities/darline-graham|Darline Graham]] | 109,881 | 32.75% |
-| [[pages/entities/ralph-norman|Ralph Norman]] | 82,627 | 24.62% |
-| [[pages/entities/russell-fry|Russell Fry]] | 65,955 | 19.66% |
-| [[pages/entities/mark-sanford|Mark Sanford]] | 50,136 | 14.94% |
-| [[pages/entities/mark-lynch|Mark Lynch]] | 19,892 | 5.93% |
-| [[pages/entities/danny-ford|Danny Ford II]] | 2,804 | 0.84% |
-| [[pages/entities/duke-buckner|Duke Buckner]] | 1,583 | 0.47% |
-| [[pages/entities/glenda-gail-parker|Glenda Gail Parker]] | 977 | 0.29% |
-| [[pages/entities/sam-shepherd|Sam Shepherd]] | 931 | 0.28% |
-| [[pages/entities/mark-mcbride|Mark McBride]] | 769 | 0.23% |
+| [Darline Graham](pages/entities/darline-graham) | 109,881 | 32.75% |
+| [Ralph Norman](pages/entities/ralph-norman) | 82,627 | 24.62% |
+| [Russell Fry](pages/entities/russell-fry) | 65,955 | 19.66% |
+| [Mark Sanford](pages/entities/mark-sanford) | 50,136 | 14.94% |
+| [Mark Lynch](pages/entities/mark-lynch) | 19,892 | 5.93% |
+| [Danny Ford II](pages/entities/danny-ford) | 2,804 | 0.84% |
+| [Duke Buckner](pages/entities/duke-buckner) | 1,583 | 0.47% |
+| [Glenda Gail Parker](pages/entities/glenda-gail-parker) | 977 | 0.29% |
+| [Sam Shepherd](pages/entities/sam-shepherd) | 931 | 0.28% |
+| [Mark McBride](pages/entities/mark-mcbride) | 769 | 0.23% |
 
 Vote cast: 335,555. Turnout: 11.12% (335,693 ballots, 3,019,175 registered). No candidate reached 50%, triggering the Aug. 25 runoff. Source: official SC Election Commission ENR record ([ENR](https://www.enr-scvotes.org/SC/127017/)).
 

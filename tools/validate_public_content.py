@@ -139,6 +139,16 @@ def check_links(files: list[Path], content_root: Path) -> tuple[int, int, list[s
                 target = raw.split("|", 1)[0].split("#", 1)[0].strip()
                 if not target:
                     continue
+                if in_table_row:
+                    # Quartz renders Obsidian wikilinks inside table cells as
+                    # literal [[...]] text (verified 2026-08-17 on the Senate
+                    # certified-results table). Table-cell links must be
+                    # content-root relative Markdown links instead.
+                    findings.append(
+                        f"{relative}:{line_number}: table-cell wikilink renders literally "
+                        f"in Quartz; use a content-root relative Markdown link: {raw}"
+                    )
+                    continue
                 wikilink_count += 1
                 candidate = (content_root / (target if target.endswith(".md") else f"{target}.md")).resolve()
                 try:

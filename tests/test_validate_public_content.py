@@ -52,6 +52,23 @@ class ValidatorLinkCheckTests(unittest.TestCase):
 
             self.assertEqual([], findings)
 
+    def test_table_cell_wikilink_is_rejected(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_directory:
+            root = Path(temp_directory)
+            make_file(root, "pages/entities/darline-graham.md", "# Target\n")
+            race = make_file(
+                root,
+                "pages/races/senate-2026.md",
+                "| [[pages/entities/darline-graham|Darline Graham]] | 109,881 |\n",
+            )
+
+            _, _, findings = check_links([race], root)
+
+            self.assertTrue(
+                any("table-cell wikilink renders literally" in f for f in findings),
+                findings,
+            )
+
     def test_paragraph_parent_link_passes(self) -> None:
         with tempfile.TemporaryDirectory() as temp_directory:
             root = Path(temp_directory)
