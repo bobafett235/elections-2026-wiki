@@ -6,7 +6,7 @@ status: evergreen
 race_status: runoff scheduled Aug 25
 last_updated: 2026-08-17
 sources_checked: 2026-08-17
-source_count: 12
+source_count: 18
 confidence: high
 sources:
   - "https://vrems.scvotes.sc.gov/Candidate/SelectElection"
@@ -19,8 +19,14 @@ sources:
   - "https://ballotpedia.org/United_States_Senate_election_in_South_Carolina,_2026"
   - "https://apnews.com/live/election-primary-08-11-2026"
   - "https://www.greenvilleonline.com/story/news/politics/2026/08/12/sc-gop-runoff-debate-darline-graham-ralph-norman/91272259007/"
+  - "https://abcnews4.com/news/local/graham-and-norman-to-face-off-in-sc-gop-senate-runoff-debate-in-newberry-aug-18-newberry-opera-house-local-politics-early-voting"
   - "https://www.politico.com/news/2026/08/14/russell-fry-backs-darline-graham-for-senate-in-south-carolina"
   - "https://www.foxcarolina.com/news/politics/lt-gov-pamela-evette-endorses-sen-graham-in-runoff-against-rep-norman"
+  - "https://www.wistv.com/2026/08/14/endorsements-pile-up-graham-norman-sc-senate-primary-runoff/"
+  - "https://www.foxnews.com/politics/ralph-norman-darline-graham-senate-runoff"
+  - "https://www.myhorrynews.com/news/darline-graham-ralph-norman-advance-to-aug-25-senate-runoff/article_e3d988b3-a672-49e3-bd9d-cdfa74bf4450.html"
+  - "https://www.thestate.com/news/politics-government/article316896404.html"
+  - "https://www.theguardian.com/us-news/2026/aug/11/south-carolina-senate-primary-runoff-darline-graham"
 modified: 2026-08-17
 ---
 # U.S. Senate (2026) - Special GOP Runoff Aug 25
@@ -63,9 +69,13 @@ Vote cast: 335,555. Turnout: 11.12% (335,693 ballots, 3,019,175 registered). No 
 
 ## Runoff news (as of Aug 17)
 
-- A runoff debate is scheduled for Tuesday, Aug 18, at the Newberry Opera House ([Greenville News](https://www.greenvilleonline.com/story/news/politics/2026/08/12/sc-gop-runoff-debate-darline-graham-ralph-norman/91272259007/), [ABC News 4](https://abcnews4.com/news/local/graham-and-norman-to-face-off-in-sc-gop-senate-runoff-debate-in-newberry-aug-18-newberry-opera-house-local-politics-early-voting)).
-- Endorsements: Russell Fry endorsed Graham on Aug 14 ([Politico](https://www.politico.com/news/2026/08/14/russell-fry-backs-darline-graham-for-senate-in-south-carolina)); Lt. Gov. Pamela Evette endorsed Graham on Aug 13 ([Fox Carolina](https://www.foxcarolina.com/news/politics/lt-gov-pamela-evette-endorses-sen-graham-in-runoff-against-rep-norman)); Graham also holds Trump's endorsement.
-- No high-quality public polling of the runoff identified as of Aug 17.
+- A televised runoff debate is set for Tuesday, Aug 18, 7:00pm at the Newberry Opera House, held in cooperation with Newsmax ([Greenville News](https://www.greenvilleonline.com/story/news/politics/2026/08/12/sc-gop-runoff-debate-darline-graham-ralph-norman/91272259007/), [ABC News 4](https://abcnews4.com/news/local/graham-and-norman-to-face-off-in-sc-gop-senate-runoff-debate-in-newberry-aug-18-newberry-opera-house-local-politics-early-voting), [The State](https://www.thestate.com/news/politics-government/article316896404.html)).
+- Endorsements for Graham: President Trump; U.S. Sen. Tim Scott on Aug 12 ([WIS](https://www.wistv.com/2026/08/14/endorsements-pile-up-graham-norman-sc-senate-primary-runoff/)); Lt. Gov. Pamela Evette on Aug 13 ([Fox Carolina](https://www.foxcarolina.com/news/politics/lt-gov-pamela-evette-endorses-sen-graham-in-runoff-against-rep-norman)); Russell Fry on Aug 14 ([Politico](https://www.politico.com/news/2026/08/14/russell-fry-backs-darline-graham-for-senate-in-south-carolina)).
+- Endorsements for Norman: U.S. Rep. Nancy Mace on Aug 12 ([WIS](https://www.wistv.com/2026/08/14/endorsements-pile-up-graham-norman-sc-senate-primary-runoff/)); former U.S. Sen. Jim DeMint, who called Norman a "proven conservative" ([WIS](https://www.wistv.com/2026/08/14/endorsements-pile-up-graham-norman-sc-senate-primary-runoff/)); Mark Lynch ([Fox News](https://www.foxnews.com/politics/ralph-norman-darline-graham-senate-runoff)); and U.S. Sens. Rick Scott (FL) and Mike Lee (UT) ([WIS](https://www.wistv.com/2026/08/14/endorsements-pile-up-graham-norman-sc-senate-primary-runoff/)).
+- Gov. Henry McMaster had not made a formal endorsement as of Aug 14 ([WIS](https://www.wistv.com/2026/08/14/endorsements-pile-up-graham-norman-sc-senate-primary-runoff/)); The Guardian reported McMaster and Senate Majority Leader John Thune as supportive of Graham ([Guardian](https://www.theguardian.com/us-news/2026/aug/11/south-carolina-senate-primary-runoff-darline-graham)).
+- Early voting for the Aug 11 special primary drew 61,755 voters statewide per the State Election Commission, with Horry County leading at 6,780 ([My Horry News](https://www.myhorrynews.com/news/darline-graham-ralph-norman-advance-to-aug-25-senate-runoff/article_e3d988b3-a672-49e3-bd9d-cdfa74bf4450.html); The State reported "nearly 62,000" ([The State](https://www.thestate.com/news/politics-government/article316896404.html))).
+- Both candidates were slated to attend Rep. Sheri Biggs' "Salute to Liberty" event in Anderson County on Aug 17 ([The State](https://www.thestate.com/news/politics-government/article316896404.html)).
+- No high-quality public polling of the runoff identified as of Aug 17. Pre-primary surveys (Emerson College Polling/Nexstar in July; a July 21 survey reported by Newsweek) showed Graham and Norman atop the field with no candidate close to a majority.
 
 Darius Mitchell and Clark Neilson were among the original 12 filers but were decertified and did not appear on the Aug. 11 ballot. Ford's initial decertification and court-ordered reinstatement are recorded above.
 
@@ -84,7 +94,7 @@ Darius Mitchell and Clark Neilson were among the original 12 filers but were dec
 - [[pages/entities/reece-wright-mcdonald|Reece Wright-McDonald]] (Independent)
 - [[pages/entities/catherine-fleming-bruce|Catherine Fleming Bruce]] (D, write-in)
 
-**GOP nominee: TBD** - the Aug. 25 runoff will decide between Darline Graham and Ralph Norman. The official SC Votes general-election record (Aug 17, 2026) lists the other November Senate candidates as Active: Annie Andrews (D), Kasie Whitener (L), and Mark Hackett (Constitution), with the Republican slot pending the runoff winner.
+**GOP nominee: TBD** - the Aug. 25 runoff will decide between Darline Graham and Ralph Norman. The official SC Votes general-election record (Aug 17, 2026) lists the other November Senate candidates as Active: Annie Andrews (D), Kasie Whitener (L), and Mark Hackett (Constitution). The Republican slot on that record is still listed under Lindsey Graham's name with status "Deceased After Primary"; the runoff winner will be added to the general record after the party certifies the nomination.
 
 ## Timeline
 
@@ -94,6 +104,7 @@ Darius Mitchell and Clark Neilson were among the original 12 filers but were dec
 - Jul 21-28: special primary filing
 - Aug 11: special GOP primary; Darline Graham and Ralph Norman advance to runoff
 - Aug 14: ENR record certified (100% counties, 2,312/2,312 precincts)
+- Aug 17: both candidates slated to attend Biggs' Salute to Liberty event in Anderson County
 - Aug 18: runoff debate at Newberry Opera House (Graham and Norman)
 - Aug 19-21: early voting for the runoff (8:30am-5:00pm; Anderson at 301 N Main St)
 - Aug 25: runoff between Graham and Norman (June Democratic primary voters not eligible)
@@ -123,5 +134,11 @@ Note: the runoff debate is scheduled for Aug 18 at the Newberry Opera House; new
 - https://ballotpedia.org/United_States_Senate_election_in_South_Carolina,_2026
 - https://apnews.com/live/election-primary-08-11-2026
 - https://www.greenvilleonline.com/story/news/politics/2026/08/12/sc-gop-runoff-debate-darline-graham-ralph-norman/91272259007/
+- https://abcnews4.com/news/local/graham-and-norman-to-face-off-in-sc-gop-senate-runoff-debate-in-newberry-aug-18-newberry-opera-house-local-politics-early-voting
 - https://www.politico.com/news/2026/08/14/russell-fry-backs-darline-graham-for-senate-in-south-carolina
 - https://www.foxcarolina.com/news/politics/lt-gov-pamela-evette-endorses-sen-graham-in-runoff-against-rep-norman
+- https://www.wistv.com/2026/08/14/endorsements-pile-up-graham-norman-sc-senate-primary-runoff/
+- https://www.foxnews.com/politics/ralph-norman-darline-graham-senate-runoff
+- https://www.myhorrynews.com/news/darline-graham-ralph-norman-advance-to-aug-25-senate-runoff/article_e3d988b3-a672-49e3-bd9d-cdfa74bf4450.html
+- https://www.thestate.com/news/politics-government/article316896404.html
+- https://www.theguardian.com/us-news/2026/aug/11/south-carolina-senate-primary-runoff-darline-graham

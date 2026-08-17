@@ -4,9 +4,9 @@ aliases: []
 office: Anderson County Council
 status: evergreen
 race_status: active
-last_updated: 2026-08-12
-sources_checked: 2026-08-12
-source_count: 8
+last_updated: 2026-08-17
+sources_checked: 2026-08-17
+source_count: 10
 confidence: high
 sources:
   - "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22598"
@@ -17,11 +17,13 @@ sources:
   - "https://www.andersonobserver.com/news/2026-election-season-officially-open"
   - "https://www.postandcourier.com/greenville/politics/anderson-county-election-incumbent-losses-growth/article_9fc9d9fa-8e24-446d-a830-48d7cc281b6d.html"
   - "https://www.independentmail.com/story/news/local/2025/11/07/penny-sales-tax-rejected-anderson-county-voters-whats-next/87122970007/"
-modified: 2026-08-12
+  - "https://www.google.com/maps/d/u/0/viewer?mid=13sKIqIIaK9NUggg0tP1T6WQYkj0"
+  - "https://en.wikipedia.org/wiki/Anderson_County,_South_Carolina"
+modified: 2026-08-17
 ---
 # Anderson County Council (2026)
 
-Anderson County has seven council districts, with members elected to two-year terms. All seven districts are on the Nov. 3, 2026 ballot. The county identifies [[pages/entities/collin-alexander|District 7]] as covering the Williamston/Pelzer area, not Pendleton itself. Pendleton's council district needs a map-level confirmation before this site claims an exact district assignment [needs-source].
+Anderson County has seven council districts, with members elected to two-year terms. All seven districts are on the Nov. 3, 2026 ballot. Pendleton's council district is **District 4**, confirmed from the county's "Find My County Council District" map (Pendleton town center and town hall both fall inside District 4) and consistent with Wikipedia's description of District 4 as the "Pendleton area" ([county district map](https://www.google.com/maps/d/u/0/viewer?mid=13sKIqIIaK9NUggg0tP1T6WQYkj0); [Wikipedia](https://en.wikipedia.org/wiki/Anderson_County,_South_Carolina)). District 7 covers the Williamston/Pelzer/Honea Path area, not Pendleton; the earlier draft reference calling District 7 the Pendleton/Clemson corner was wrong.
 
 ## Race status
 
@@ -38,7 +40,7 @@ Anderson County has seven council districts, with members elected to two-year te
 | 1 | [Chris Sullivan](pages/entities/chris-sullivan) (R) | Sullivan beat Kelley Koonce, 64.33% to 35.67%; no Democratic candidate reported. |
 | 2 | [Glenn Davis](pages/entities/glenn-davis) (D); [James Hayes](pages/entities/james-hayes) (R) | Only active two-candidate November council race. |
 | 3 | [Greg Elgin](pages/entities/greg-elgin) (R) | Sole active candidate listed by SC Votes. |
-| 4 | [Dave Shalaby](pages/entities/dave-shalaby) (R) | Open seat after Brett Sanders did not seek reelection; Shalaby beat Samuel Whatley, 58.35% to 41.65%. |
+| 4 | [Dave Shalaby](pages/entities/dave-shalaby) (R) | Pendleton area (confirmed from the county district map); open seat after Brett Sanders did not seek reelection; Shalaby beat Samuel Whatley, 58.35% to 41.65%. |
 | 5 | [Josh Mann](pages/entities/josh-mann) (R) | Mann beat incumbent chairman Tommy Dunn, 57.92% to 42.08%. |
 | 6 | [Jimmy Davis](pages/entities/jimmy-davis) (R) | Davis beat Ryan Cowsert, 76.70% to 23.30%. |
 | 7 | [Collin Alexander](pages/entities/collin-alexander) (R) | Alexander beat incumbent [M. Cindy Wilson](pages/entities/cindy-wilson), 1,818 votes (50.53%) to 1,780 (49.47%). |
@@ -74,3 +76,5 @@ The dominant county-wide theme in 2026 is rapid growth outpacing infrastructure.
 - https://www.andersonobserver.com/news/2026-election-season-officially-open
 - https://www.postandcourier.com/greenville/politics/anderson-county-election-incumbent-losses-growth/article_9fc9d9fa-8e24-446d-a830-48d7cc281b6d.html
 - https://www.independentmail.com/story/news/local/2025/11/07/penny-sales-tax-rejected-anderson-county-voters-whats-next/87122970007/
+- https://www.google.com/maps/d/u/0/viewer?mid=13sKIqIIaK9NUggg0tP1T6WQYkj0
+- https://en.wikipedia.org/wiki/Anderson_County,_South_Carolina

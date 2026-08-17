@@ -10,6 +10,13 @@ modified: 2026-08-17
 ---
 # Public changelog
 
+## 2026-08-17: November candidate pages, Pendleton district confirmation, runoff endorsements
+
+- Added 11 candidate pages for the verified November fields: Anderson SD4 Area 4 (Brandon E Bailey, Anna Leavitt, Dustin Williams), the statewide third-party candidates (Baba Amin Ojuok for Superintendent, Chris Nelums and Michael Sullens for Agriculture Commissioner), and the SC-2/SC-5 House fields (Zyon Khalifa, Dayna Alane Smith, Wes Climer, Mallory Dittmer, Andy Kaplan). Thin pages are honest about the little public info available.
+- Confirmed Pendleton's county council district: the county's district map places the town in District 4, the open seat this cycle. The earlier assumption that District 7 covered Pendleton was wrong.
+- Expanded Sam Skardon's profile with a sourced biography (Obama campaign organizer, John Lewis staffer, Palmetto Project family history, three stated priorities).
+- Updated the Senate runoff page with the full endorsement picture (Tim Scott for Graham; Mace, DeMint, Lynch, Rick Scott, and Mike Lee for Norman), the Aug 18 debate details, early-vote turnout for the Aug 11 primary, and the note that the official general-election record still lists the Republican Senate slot under Lindsey Graham pending runoff certification.
+
 ## 2026-08-17: Finalized candidate platforms and disagreement tables
 
 - Added "Where they disagree" comparisons to every race page. The Governor race now has a 12-issue table (taxes, minimum wage, education, healthcare, public safety, housing, abortion, immigration, energy, cannabis, guns); the Senate runoff is characterized as a biography-and-emphasis contest between two Trump-aligned candidates; the statewide offices, SC-3, HD-8, and county council each have per-race disagreement summaries.

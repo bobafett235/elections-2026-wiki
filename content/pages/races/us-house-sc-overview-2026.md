@@ -44,10 +44,10 @@ South Carolina will elect one U.S. representative from each of its seven congres
 | District | November candidates | Notes |
 |---|---|---|
 | 1 | Jenny Costa Honeycutt (R); Nancy Lacore (D); Bill Reeside (L) | Open seat: Mace ran for governor and lost the June 9 primary. Honeycutt beat Mark Smith in the June 23 runoff (AP). |
-| 2 | Joe Wilson (R, incumbent); Zyon Khalifa (D); Dayna Alane Smith (Workers) | Khalifa won the Democratic runoff; David Robinson II was defeated in the primary. Wilson seeking his 13th term. |
+| 2 | Joe Wilson (R, incumbent); [Zyon Khalifa](pages/entities/zyon-khalifa) (D); [Dayna Alane Smith](pages/entities/dayna-alane-smith) (Workers) | Khalifa won the Democratic runoff; David Robinson II was defeated in the primary. Wilson seeking his 13th term. |
 | 3 | Sheri Biggs (R, incumbent); Eunice Lehmacher (D); Brian Corriea (L) | Detailed coverage: [SC-3 race](us-house-sc3-2026) |
 | 4 | William Timmons (R, incumbent); Courtney McClain (D); Jessica Ethridge (L) | Timmons pledged in January 2026 that this is his final campaign before retiring in 2028. |
-| 5 | Wes Climer (R); Mallory Dittmer (D); Andy Kaplan (Forward) | **Norman is NOT on the SC-5 general ballot.** Ralph Norman ran for Senate and is not a candidate for his House seat; Climer is the Republican nominee for the open seat. This corrects the earlier unverified assumption that Norman might appear for both offices. |
+| 5 | [Wes Climer](pages/entities/wes-climer) (R); [Mallory Dittmer](pages/entities/mallory-dittmer) (D); [Andy Kaplan](pages/entities/andy-kaplan) (Forward) | **Norman is NOT on the SC-5 general ballot.** Ralph Norman ran for Senate and is not a candidate for his House seat; Climer is the Republican nominee for the open seat. This corrects the earlier unverified assumption that Norman might appear for both offices. |
 | 6 | Jim Clyburn (D, incumbent); John Peterson (R); Joseph Oddo (Alliance) | Clyburn seeking his 18th term. |
 | 7 | Russell Fry (R, incumbent); John Vincent (D) | **Fry is confirmed on the November ballot** despite losing the Aug. 11 Senate special primary; he kept his House filing. |
 ## Verification notes

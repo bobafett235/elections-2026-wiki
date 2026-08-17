@@ -4,8 +4,8 @@ aliases: []
 office: U.S. House, SC-3
 status: evergreen
 race_status: active
-last_updated: 2026-08-12
-source_count: 7
+last_updated: 2026-08-17
+source_count: 8
 confidence: high
 sources:
   - "https://vrems.scvotes.sc.gov/Candidate/SelectElection"
@@ -15,7 +15,8 @@ sources:
   - "https://politics1.com/sc.htm"
   - "https://ivoterguide.com/candidate/82864/race/16287/election/1229?culture=en-us"
   - "https://sclp.org/candidates/"
-modified: 2026-08-12
+  - "https://www.wyff4.com/article/sheri-biggs-south-carolina-senate-runoff/73430915"
+modified: 2026-08-17
 ---
 # U.S. House - South Carolina District 3 (2026)
 
@@ -45,7 +46,7 @@ Pendleton (29670) is in SC-3 (Anderson, Oconee, Pickens and parts of Greenville/
 | Abortion | Pro-life; no 2026 survey detail found | Supports taxpayer funds for low-income women's reproductive health care ([iVoterGuide](https://ivoterguide.com/candidate/82864/race/16287/election/1229?culture=en-us)) | Pro-choice on the principle of bodily autonomy (SCLP platform, [sclp.org](https://sclp.org/candidates/)) |
 | Spending | Supports Trump agenda and defense posture; no detailed fiscal survey found | Prioritizes social investment (labor, health, education) | Deep spending cuts; opposes government expansion (SCLP platform, [sclp.org](https://sclp.org/candidates/)) |
 
-Biggs' platform is the thinnest of the three for 2026: she has not completed Ballotpedia's or iVoterGuide's 2026 surveys, so her column reflects her public record and campaign framing rather than a finalized issue platform [needs-source].
+Biggs' platform is the thinnest of the three for 2026: she has not completed Ballotpedia's or iVoterGuide's 2026 surveys, so her column reflects her public record and campaign framing rather than a finalized issue platform [needs-source]. In an Aug 13, 2026 TV interview she highlighted the Made in America Defense Act and military-family travel legislation and said she expects the House to pass the Lindsey Graham Russian Sanctions Act ([WYFF](https://www.wyff4.com/article/sheri-biggs-south-carolina-senate-runoff/73430915)).
 
 ## Sources
 
@@ -56,3 +57,4 @@ Biggs' platform is the thinnest of the three for 2026: she has not completed Bal
 - https://politics1.com/sc.htm
 - https://ivoterguide.com/candidate/82864/race/16287/election/1229?culture=en-us
 - https://sclp.org/candidates/
+- https://www.wyff4.com/article/sheri-biggs-south-carolina-senate-runoff/73430915

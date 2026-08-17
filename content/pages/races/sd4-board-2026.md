@@ -6,7 +6,7 @@ status: evergreen
 race_status: active
 last_updated: 2026-08-17
 sources_checked: 2026-08-17
-source_count: 5
+source_count: 6
 confidence: high
 sources:
   - "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
@@ -14,6 +14,7 @@ sources:
   - "https://www.anderson4.org/page/board-of-trustees"
   - "https://www.andersoncountysc.org/departments-a-z/vote/"
   - "https://vrems.scvotes.sc.gov/Candidate/SelectElection"
+  - "https://www.andersonobserver.com/news/deadline-for-non-partisan-race-filings-monday-at-noon"
 modified: 2026-08-17
 ---
 # Anderson School District 4 Board (2026)
@@ -35,10 +36,10 @@ SD4 serves Pendleton (district office at 315 E Queen St, Pendleton, SC 29670). F
 | Area | Candidates (status) |
 |---|---|
 | 2 | [Paulette Grate](pages/entities/paulette-grate) (Active, incumbent since 2010) |
-| 4 | Brandon E Bailey (Active); Anna Leavitt (Active); Dustin Williams (Active) |
+| 4 | [Brandon E Bailey](pages/entities/brandon-e-bailey) (Active); [Anna Leavitt](pages/entities/anna-leavitt) (Active); [Dustin Williams](pages/entities/dustin-williams) (Active) |
 | 5 | [Brad Mock](pages/entities/brad-mock) (Active, incumbent since 2022) |
 
-**Correction (Aug 17):** the earlier page listed Diana Mullikin as the Area 4 incumbent expected to run. The official record shows Mullikin is NOT a candidate in 2026; Area 4 is an open three-way race between Bailey, Leavitt, and Williams. No public bio pages exist yet for the three Area 4 challengers; the SC Votes candidate detail records are the current source.
+**Correction (Aug 17):** the earlier page listed Diana Mullikin as the Area 4 incumbent expected to run. The official record shows Mullikin is NOT a candidate in 2026; Area 4 is an open three-way race between Bailey, Leavitt, and Williams. Thin entity pages now exist for the three Area 4 candidates ([[pages/entities/brandon-e-bailey|Bailey]], [[pages/entities/anna-leavitt|Leavitt]], [[pages/entities/dustin-williams|Williams]]); their records cite the official SC Votes list and the Anderson Observer's filing-deadline notice, with little public bio material available.
 
 Not up: Area 1 (Waylon Priester, elected 2024), Area 3 (Charles Privette III, elected 2024).
 
@@ -53,3 +54,4 @@ Little public platform information exists for any SD4 candidate this cycle. No c
 - https://www.anderson4.org/page/board-of-trustees
 - https://www.andersoncountysc.org/departments-a-z/vote/
 - https://vrems.scvotes.sc.gov/Candidate/SelectElection
+- https://www.andersonobserver.com/news/deadline-for-non-partisan-race-filings-monday-at-noon

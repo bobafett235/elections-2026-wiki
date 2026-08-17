@@ -6,12 +6,15 @@ status: evergreen
 race_status: active
 last_updated: 2026-08-17
 sources_checked: 2026-08-17
-source_count: 3
+source_count: 6
 confidence: high
 sources:
   - "https://politics1.com/sc.htm"
   - "https://ballotpedia.org/South_Carolina_state_executive_official_elections,_2026"
   - "https://www.enr-scvotes.org/SC/126718/"
+  - "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+  - "https://www.wistv.com/2026/05/06/seven-candidates-compete-south-carolina-agriculture-commissioner/"
+  - "https://www.yahoo.com/news/articles/sc-superintendent-ellen-weaver-3-121753676.html"
 modified: 2026-08-17
 ---
 # Statewide Constitutional Offices (2026)
@@ -58,7 +61,7 @@ All six other statewide offices are on the Nov 3, 2026 ballot. Every race leans 
 
 - [[pages/entities/ellen-weaver|Ellen Weaver]] (R, incumbent since 2023)
 - [[pages/entities/sylvia-wright|Sylvia Wright]] (D) - educator
-- Baba Amin Ojuok (United Citizens) - third-party candidate on the official SC Votes general-election record
+- [[pages/entities/baba-amin-ojuok|Baba Amin Ojuok]] (United Citizens) - founder of the African-centered online Uhuru Academy; on the official SC Votes general-election record ([The State via Yahoo](https://www.yahoo.com/news/articles/sc-superintendent-ellen-weaver-3-121753676.html))
 
 **Where they disagree (most contested statewide race):** School choice (Weaver supports expanded vouchers/choice and parental empowerment; Wright focuses on funding public schools and Universal Pre-K for all 4-year-olds), and approach (Weaver pushes the science of reading, literacy/math reforms, and reducing red tape; Wright prioritizes the educator pipeline, paid internships for student teachers, and safe learning environments) ([Post and Courier](https://www.postandcourier.com/), [The State](https://www.thestate.com/), [ellenweaver.com](https://ellenweaver.com/), [wright2026sc.com](https://www.wright2026sc.com/about)).
 
@@ -66,8 +69,8 @@ All six other statewide offices are on the Nov 3, 2026 ballot. Every race leans 
 
 - [[pages/entities/cody-simpson|Cody Simpson]] (R) - fifth-generation farmer, ex-USDA FSA state director; won the June 23 GOP runoff with 62.58% (193,033 votes) over Danny Ford (37.42%) per the certified ENR record
 - [[pages/entities/deshawn-blanding|DeShawn Blanding]] (D) - ag co-op president, farmer
-- Chris Nelums (United Citizens) - third-party candidate on the official SC Votes general-election record
-- Michael Sullens (Libertarian) - third-party candidate on the official SC Votes general-election record
+- [[pages/entities/chris-nelums|Chris Nelums]] (United Citizens) - third-party candidate on the official SC Votes general-election record; calls for help for "our black farmers that are suffering" ([WIS](https://www.wistv.com/2026/05/06/seven-candidates-compete-south-carolina-agriculture-commissioner/))
+- [[pages/entities/michael-sullens|Michael Sullens]] (Libertarian) - third-party candidate on the official SC Votes general-election record; says the state should keep South Carolina food in South Carolina ([WIS](https://www.wistv.com/2026/05/06/seven-candidates-compete-south-carolina-agriculture-commissioner/))
 
 **Where they disagree:** Simpson emphasizes deregulation and market access (updating post-DHEC food-safety regulations, auditing state contracts so local farmers can sell more to government) and his "America First Farmer" framing; Blanding emphasizes a cooperative model, local processing, food hubs, and rural economic development ("Processing, Partnerships, and Protection"). A direct issue-by-issue comparison is limited by the amount of public platform material ([Post and Courier](https://www.postandcourier.com/), [codyforsc.com](https://codyforsc.com), [blandingforsc.com](https://blandingforsc.com), [BallotReady](https://www.ballotready.org/people/deshawn-blanding)).
 
@@ -76,3 +79,6 @@ All six other statewide offices are on the Nov 3, 2026 ballot. Every race leans 
 - https://politics1.com/sc.htm
 - https://ballotpedia.org/South_Carolina_state_executive_official_elections,_2026
 - https://www.enr-scvotes.org/SC/126718/
+- https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596
+- https://www.wistv.com/2026/05/06/seven-candidates-compete-south-carolina-agriculture-commissioner/
+- https://www.yahoo.com/news/articles/sc-superintendent-ellen-weaver-3-121753676.html
