@@ -2,23 +2,23 @@
 title: South Carolina Elections 2026 Wiki
 description: Independent, source-first research on South Carolina elections, Anderson County, and Pendleton-area races.
 tags: [meta, elections-2026, south-carolina]
-last_updated: 2026-08-17
+last_updated: 2026-10-05
 confidence: high
 source_count: 0
 sources: []
-modified: 2026-08-17
+modified: 2026-10-05
 ---
 # Elections 2026 Wiki - Index
 
 > Content catalog. Every wiki page listed under its section with a one-line summary.
 > Read this first to find relevant pages.
-> Last updated: 2026-08-17 | Total pages: 85 (8 races, 65 candidates, 12 source notes)
+> Last updated: 2026-10-05 | Total pages: 85 (8 races, 65 candidates, 12 source notes)
 
 Start here: [[about|About, methodology, and disclaimer]] · [[changelog|Public changelog]] · [Source repository](https://github.com/bobafett235/elections-2026-wiki)
 
 ## Races
 
-- [[pages/races/senate-2026|US Senate]] - Darline Graham vs Ralph Norman in Aug 25 special GOP runoff; debate Aug 18, early voting Aug 19-21; certified Aug 11 totals recorded
+- [[pages/races/senate-2026|US Senate]] - Darline Graham won the Aug 25 special GOP runoff 52.45%-47.55%; Graham, Andrews, Whitener, and Hackett are the active general-election records; early voting Oct 19-31
 - [[pages/races/governor-2026|Governor]] - Wilson/Reichenbach (R) vs Johnson/Skardon (D); open seat, McMaster term-limited; 12-issue disagreement table
 - [[pages/races/statewide-offices-2026|Statewide Offices]] - AG, SoS, Treasurer, Comptroller, Supt, Ag Commissioner; disagreement summaries per office
 - [[pages/races/us-house-sc3-2026|US House SC-3]] - Biggs (R, inc) vs Lehmacher (D) vs Corriea (L); three-way disagreement table
@@ -29,9 +29,9 @@ Start here: [[about|About, methodology, and disclaimer]] · [[changelog|Public c
 
 ## Entities - U.S. Senate
 
-- [[pages/entities/darline-graham|Darline Graham]] (R) - appointed incumbent; Aug 25 runoff finalist
+- [[pages/entities/darline-graham|Darline Graham]] (R) - appointed incumbent; Aug 25 runoff winner and Republican nominee
 - [[pages/entities/russell-fry|Russell Fry]] (R) - SC-7 congressman; did not advance from Senate primary
-- [[pages/entities/ralph-norman|Ralph Norman]] (R) - SC-5 congressman; Aug 25 runoff finalist
+- [[pages/entities/ralph-norman|Ralph Norman]] (R) - SC-5 congressman; defeated in Aug 25 Senate runoff
 - [[pages/entities/mark-sanford|Mark Sanford]] (R) - ex-governor; conceded Aug 11 primary
 - [[pages/entities/mark-lynch|Mark Lynch]] (R) - appliance businessman; 28.9% in June primary
 - [[pages/entities/mark-mcbride|Mark McBride]] (R) - ex-Myrtle Beach mayor

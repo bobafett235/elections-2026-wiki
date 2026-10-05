@@ -2,13 +2,20 @@
 tags: [meta]
 aliases: [Public changelog]
 status: evergreen
-last_updated: 2026-08-17
+last_updated: 2026-10-05
 source_count: 0
 confidence: high
 sources: []
-modified: 2026-08-17
+modified: 2026-10-05
 ---
 # Public changelog
+
+## 2026-10-05: Senate runoff result and general-election refresh
+
+- Updated the Senate race and candidate pages with the official Aug. 25 special Republican runoff result: Darline Graham 193,486 votes (52.45%) and Ralph Norman 175,412 (47.55%).
+- Verified the current SC Votes general-election candidate tracker (election 22596): Graham, Annie Andrews, Kasie Whitener, and Mark Hackett are Active Senate records; Lindsey Graham remains "Deceased After Primary"; the five Ballotpedia-listed Independents remain [unverified] because they do not appear in the official record.
+- Added official source records for the runoff ENR page, hand-count audit notice, candidate-search endpoint, State Election Commission voter-preparation and early-voting pages, registration reminder, and Election Database landing page.
+- Updated the public index and source note with Oct. 2, Oct. 4, and Oct. 5 registration deadlines, Oct. 19-31 early voting, and the Nov. 3 absentee-arrival deadline.
 
 ## 2026-08-17: Runoff debate broadcast, Salute to Liberty, and independent-field verification
 

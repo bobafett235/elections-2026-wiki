@@ -3,15 +3,21 @@ tags: [race]
 aliases: []
 office: U.S. Senate
 status: evergreen
-race_status: runoff scheduled Aug 25
-last_updated: 2026-08-17
-sources_checked: 2026-08-17
-source_count: 22
+race_status: general election
+last_updated: 2026-10-05
+sources_checked: 2026-10-05
+source_count: 28
 confidence: high
 sources:
   - "https://vrems.scvotes.sc.gov/Candidate/SelectElection"
   - "https://scvotes.gov/elections-statistics/election-results/"
   - "https://www.enr-scvotes.org/SC/127017/"
+  - "https://www.enr-scvotes.org/SC/127179/"
+  - "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+  - "https://scvotes.gov/candidates/2026-candidate-information/"
+  - "https://scvotes.gov/voters/early-voting/"
+  - "https://scvotes.gov/voters/2026prep/"
+  - "https://scvotes.gov/hand-count-audits-for-2026-u-s-senate-special-republican-primary-runoff/"
   - "https://scvotes.gov/early-voting-u-s-senate-special-republican-primary/"
   - "https://scvotes.gov/u-s-senate-special-republican-party-filing-primary/"
   - "https://scvotes.gov/candidate-name-added-to-ballot-in-u-s-senate-special-republican-primary/"
@@ -31,11 +37,11 @@ sources:
   - "https://www.coladaily.com/communities/special-republican-primary-runoff-debate-what-to-know-how-to-watch/article_aebe066a-8358-47a4-9ea3-c128c538b737.html"
   - "https://rollcall.com/2026/08/11/darline-graham-will-face-ralph-norman-in-south-carolina-senate-runoff/"
   - "https://www.eventbrite.com/e/congresswoman-sheri-biggs-salute-to-liberty-tickets-1992660897385"
-modified: 2026-08-17
+modified: 2026-10-05
 ---
-# U.S. Senate (2026) - Special GOP Runoff Aug 25
+# U.S. Senate (2026) - General Election
 
-**Current status (updated Aug 17):** The Aug. 11 special Republican primary produced no majority winner. [[pages/entities/darline-graham|Darline Graham]] (32.75%) and [[pages/entities/ralph-norman|Ralph Norman]] (24.62%) advanced to the **Aug. 25 runoff**; [[pages/entities/russell-fry|Russell Fry]] (19.66%) did not advance. The official State Election Commission ENR record is now fully certified (100% of counties, 2,312/2,312 precincts; last updated Aug 14) and its totals are recorded below. Runoff eligibility: voters who participated in the June Democratic primary are not eligible for the Aug. 25 special Republican runoff; June Republican primary voters and those who voted in neither party's June primary are eligible.
+**Current status (updated Oct. 5):** [[pages/entities/darline-graham|Darline Graham]] won the Aug. 25 special Republican primary runoff over [[pages/entities/ralph-norman|Ralph Norman]], 193,486 votes (52.45%) to 175,412 (47.55%), according to the current official State Election Commission ENR record. Graham is now the Republican nominee for the Nov. 3 general election. The live SC Votes candidate tracker, checked Oct. 5, lists four active Senate records: Graham (R), [[pages/entities/annie-andrews|Annie Andrews]] (D), [[pages/entities/kasie-whitener|Kasie Whitener]] (L), and [[pages/entities/mark-hackett|Mark Hackett]] (Constitution). It retains Lindsey Graham as "Deceased After Primary" and does not list the five Ballotpedia-listed Independents as active records.
 
 **Ballot correction:** Twelve people initially filed. The South Carolina Republican Party decertified Danny Ford II, Darius Mitchell, and Clark Neilson on July 28, leaving nine candidates. A Richland County court order required Ford to be added back on Aug. 4, and the State Election Commission confirmed the addition. The Aug. 11 ballot therefore had **10 candidates**. The remaining two decertifications, Mitchell and Neilson, are documented below for filing history but were not ballot candidates.
 
@@ -50,9 +56,10 @@ modified: 2026-08-17
 - Regular primary: June 9, 2026
 - Special GOP primary: August 11, 2026 (certified Aug 14)
 - Regular runoff: June 23, 2026
-- Special runoff: August 25, 2026. Early voting: Wed Aug 19 through Fri Aug 21, 8:30am-5:00pm, at the County Voter Registration Office (Anderson: 301 N Main St). June Democratic primary voters are not eligible for the special Republican runoff; June Republican primary voters and those who voted in neither party's June primary are eligible.
+- Special runoff: August 25, 2026, completed. Darline Graham won 193,486 (52.45%) to Ralph Norman's 175,412 (47.55%) on the official ENR record. A State Election Commission hand-count audit notice was posted for the runoff.
 - General election: November 3, 2026
-- Candidate field: Aug. 11 primary completed with 10 ballot candidates after a court-ordered reinstatement of Danny Ford II. Graham and Norman advanced to the Aug. 25 runoff. Certified totals are recorded below from the official ENR record.
+- Candidate field: The current SC Votes general-election tracker lists Graham (R), Andrews (D), Whitener (L), and Hackett (Constitution) as Active Senate candidates. Lindsey Graham remains in the record as "Deceased After Primary." The five Ballotpedia-listed Independent candidates remain [unverified] because they do not appear in the official tracker.
+- General-election voting: registration deadlines were Oct. 2 in person, Oct. 4 online or by email/fax, and Oct. 5 postmark by mail. Early voting runs Oct. 19-31 from 8:30 a.m. to 6:00 p.m., Monday through Saturday, closed Sunday, Oct. 25. Absentee ballots must arrive by 7:00 p.m. on Nov. 3.
 
 ## Special Republican primary - August 11 (10 ballot candidates, certified results)
 
@@ -71,7 +78,15 @@ modified: 2026-08-17
 
 Vote cast: 335,555. Turnout: 11.12% (335,693 ballots, 3,019,175 registered). No candidate reached 50%, triggering the Aug. 25 runoff. Source: official SC Election Commission ENR record ([ENR](https://www.enr-scvotes.org/SC/127017/)).
 
-## Runoff news (as of Aug 17)
+## Runoff result and general-election logistics (as of Oct. 5)
+
+- **Runoff result:** Darline Graham defeated Ralph Norman in the Aug. 25 special Republican primary runoff. The official ENR page reports Graham with 193,486 votes (52.45%) and Norman with 175,412 (47.55%); all counties are shown as reporting. The State Election Commission also published a hand-count audit notice for the runoff ([ENR](https://www.enr-scvotes.org/SC/127179/); [audit notice](https://scvotes.gov/hand-count-audits-for-2026-u-s-senate-special-republican-primary-runoff/)).
+- **Current official Senate records:** the SC Votes general-election tracker returned 14 Senate rows on Oct. 5. Four are Active: Graham (Republican), Annie Andrews (Democratic), Kasie Whitener (Libertarian), and Mark Hackett (Constitution). Lindsey Graham remains listed as "Deceased After Primary." The five Ballotpedia-listed Independents still do not appear in the tracker and remain [unverified] for ballot status.
+- **Registration:** the SEC listed Oct. 2 as the in-person deadline, Oct. 4 at 11:59 p.m. for online or email/fax applications, and Oct. 5 as the mail postmark deadline ([SEC voter-prep page](https://scvotes.gov/voters/2026prep/); [SEC registration reminder](https://scvotes.gov/national-voter-registration-day-highlights-south-carolinas-upcoming-voter-registration-deadline/)).
+- **Early voting:** Oct. 19 through Oct. 31, 8:30 a.m. to 6:00 p.m., Monday through Saturday, closed Sunday, Oct. 25. Anderson County's listed centers are the County Voter Registration Office, Powdersville Library, Pendleton Branch Library, and Watkins Community Center ([SC Votes early-voting page](https://scvotes.gov/voters/early-voting/)).
+- **Absentee and Election Day:** absentee ballots must be received by 7:00 p.m. on Nov. 3. Polls are open 7:00 a.m. to 7:00 p.m. on Election Day ([SEC voter-prep page](https://scvotes.gov/voters/2026prep/)).
+
+## Historical runoff coverage (as of Aug 17)
 
 - A televised runoff debate is set for Tuesday, Aug 18, 7:00pm at the Newberry Opera House, held in cooperation with Newsmax ([Greenville News](https://www.greenvilleonline.com/story/news/politics/2026/08/12/sc-gop-runoff-debate-darline-graham-ralph-norman/91272259007/), [ABC News 4](https://abcnews4.com/news/local/graham-and-norman-to-face-off-in-sc-gop-senate-runoff-debate-in-newberry-aug-18-newberry-opera-house-local-politics-early-voting), [The State](https://www.thestate.com/news/politics-government/article316896404.html)). The debate will be moderated by Greta Van Susteren, anchor of Newsmax's The Record, with panelists including former SCGOP State Chairman Van Hipp and SCETV's Gavin Jackson; SCETV will broadcast and stream it statewide on ETV and ETV World, SCETV.org, and SC Public Radio ([SCETV](https://www.scetv.org/stories/2026/scetv-partners-south-carolina-republican-party-broadcast-and-stream-us-senate-special), [Cola Daily](https://www.coladaily.com/communities/special-republican-primary-runoff-debate-what-to-know-how-to-watch/article_aebe066a-8358-47a4-9ea3-c128c538b737.html)).
 - Endorsements for Graham: President Trump, who said Aug 11 that he plans to campaign for her in the runoff ([Roll Call](https://rollcall.com/2026/08/11/darline-graham-will-face-ralph-norman-in-south-carolina-senate-runoff/)); U.S. Sen. Tim Scott on Aug 12 ([WIS](https://www.wistv.com/2026/08/14/endorsements-pile-up-graham-norman-sc-senate-primary-runoff/)); Lt. Gov. Pamela Evette on Aug 13 ([Fox Carolina](https://www.foxcarolina.com/news/politics/lt-gov-pamela-evette-endorses-sen-graham-in-runoff-against-rep-norman)); Russell Fry on Aug 14 ([Politico](https://www.politico.com/news/2026/08/14/russell-fry-backs-darline-graham-for-senate-in-south-carolina)).
@@ -89,34 +104,41 @@ Darius Mitchell and Clark Neilson were among the original 12 filers but were dec
 
 ## Other general-election candidates (Nov 3)
 
+- [[pages/entities/darline-graham|Darline Graham]] (Republican) - won the Aug. 25 special Republican runoff and is the party nominee
+- [[pages/entities/annie-andrews|Annie Andrews]] (Democratic) - won the June 9 Democratic primary
 - [[pages/entities/kasie-whitener|Kasie Whitener]] (Libertarian) - USC professor, radio host, author
 - [[pages/entities/mark-hackett|Mark Hackett]] (Constitution Party)
-- [[pages/entities/jack-ellison|Jack Ellison]] (Independent)
-- [[pages/entities/cindy-glaser|Cindy Glaser]] (Independent)
-- [[pages/entities/paul-sedletsky|Paul Sedletsky]] (Independent)
-- [[pages/entities/edward-strunge|Edward Strunge]] (Independent)
-- [[pages/entities/reece-wright-mcdonald|Reece Wright-McDonald]] (Independent)
-- [[pages/entities/catherine-fleming-bruce|Catherine Fleming Bruce]] (D, write-in)
+- [[pages/entities/jack-ellison|Jack Ellison]] (Independent, [unverified])
+- [[pages/entities/cindy-glaser|Cindy Glaser]] (Independent, [unverified])
+- [[pages/entities/paul-sedletsky|Paul Sedletsky]] (Independent, [unverified])
+- [[pages/entities/edward-strunge|Edward Strunge]] (Independent, [unverified])
+- [[pages/entities/reece-wright-mcdonald|Reece Wright-McDonald]] (Independent, [unverified])
+- [[pages/entities/catherine-fleming-bruce|Catherine Fleming Bruce]] (D, declared write-in; write-ins are not listed in the tracker)
 
-Ballotpedia lists the five independents above as November candidates, but none of them appear on the official SC Votes general-election candidate record (election 22596) as of Aug 17, 2026. That record lists Annie Andrews, Kasie Whitener, and Mark Hackett as the certified candidates alongside the pending GOP slot; Bruce runs as a declared write-in, which the record does not list. The five independents' November ballot status is [unverified].
+Ballotpedia lists the five Independents above as November candidates, but none appeared in the official SC Votes general-election candidate tracker when rechecked Oct. 5, 2026. The current tracker lists Graham, Andrews, Whitener, and Hackett as Active, while Lindsey Graham remains "Deceased After Primary." Catherine Fleming Bruce is a declared write-in and is not expected in the filed-candidate table. The five Independents' November ballot status remains [unverified].
 
-**GOP nominee: TBD** - the Aug. 25 runoff will decide between Darline Graham and Ralph Norman. The official SC Votes general-election record (Aug 17, 2026) lists the other November Senate candidates as Active: Annie Andrews (D), Kasie Whitener (L), and Mark Hackett (Constitution). The Republican slot on that record is still listed under Lindsey Graham's name with status "Deceased After Primary"; the runoff winner will be added to the general record after the party certifies the nomination.
+**Republican nominee: Darline Graham.** She won the Aug. 25 runoff over Ralph Norman, and the official general-election tracker now marks her record Active.
 
 ## Timeline
 
 - Jun 9: primary (Graham 56.8% R; Andrews 61.5% D)
-- Jul 11: Graham dies
+- Jul 11: Lindsey Graham dies
 - Jul 13: McMaster appoints Darline Graham
 - Jul 21-28: special primary filing
 - Aug 11: special GOP primary; Darline Graham and Ralph Norman advance to runoff
-- Aug 14: ENR record certified (100% counties, 2,312/2,312 precincts)
-- Aug 17: Biggs' Salute to Liberty dinner in Anderson (Scalise, Jordan, Meadows, and Wilson listed as speakers); both runoff candidates slated to attend
-- Aug 18: runoff debate at Newberry Opera House (Graham and Norman)
-- Aug 19-21: early voting for the runoff (8:30am-5:00pm; Anderson at 301 N Main St)
-- Aug 25: runoff between Graham and Norman (June Democratic primary voters not eligible)
+- Aug 14: Aug. 11 ENR record certified (100% counties, 2,312/2,312 precincts)
+- Aug 17: Biggs' Salute to Liberty dinner in Anderson (historical campaign event)
+- Aug 18: runoff debate at Newberry Opera House (historical campaign event)
+- Aug 19-21: early voting for the special runoff
+- Aug 25: Darline Graham defeats Ralph Norman in the special GOP runoff
+- Sep 15: SEC publishes registration reminder for the Nov. 3 general election
+- Oct 2: in-person registration deadline
+- Oct 4: online and email/fax registration deadline
+- Oct 5: mail registration postmark deadline
+- Oct 19-31: general-election early voting, closed Sunday, Oct. 25
 - Nov 3: general election
 
-## Where they disagree (as of Aug 17, 2026)
+## Where they disagreed in the runoff (research as of Aug 17, 2026)
 
 Graham and Norman are both strongly aligned with President Trump and general GOP orthodoxy, so the runoff is fought mostly on biography and emphasis rather than policy divergence:
 
@@ -126,13 +148,19 @@ Graham and Norman are both strongly aligned with President Trump and general GOP
 | Framing | Honoring Lindsey Graham's legacy; "she answered the call"; serving South Carolinians well ([campaign](https://darlinegrahamsc.com)) | America First fighter who won't "fold when the pressure comes"; faith, family, freedom ([campaign](https://ralphnormanforsenate.com)) |
 | Policy specifics | Conservative values, fiscal discipline ("fiercely protective of taxpayer dollars"), disability employment and independent living ([campaign](https://darlinegrahamsc.com)) | Stand with Trump; proven conservative record in Congress; platform details otherwise thin on the site ([campaign](https://ralphnormanforsenate.com)) |
 
-Note: the runoff debate is scheduled for Aug 18 at the Newberry Opera House; new disagreements emerging from the debate are not yet available as of Aug 17.
+Note: the comparison above is historical runoff research captured before the Aug. 25 vote. The runoff is complete, and Graham is now the Republican nominee.
 
 ## Sources
 
 - https://vrems.scvotes.sc.gov/Candidate/SelectElection
 - https://scvotes.gov/elections-statistics/election-results/
 - https://www.enr-scvotes.org/SC/127017/
+- https://www.enr-scvotes.org/SC/127179/
+- https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596
+- https://scvotes.gov/candidates/2026-candidate-information/
+- https://scvotes.gov/voters/early-voting/
+- https://scvotes.gov/voters/2026prep/
+- https://scvotes.gov/hand-count-audits-for-2026-u-s-senate-special-republican-primary-runoff/
 - https://scvotes.gov/early-voting-u-s-senate-special-republican-primary/
 - https://scvotes.gov/u-s-senate-special-republican-party-filing-primary/
 - https://scvotes.gov/candidate-name-added-to-ballot-in-u-s-senate-special-republican-primary/
