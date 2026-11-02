@@ -4,7 +4,8 @@ aliases: []
 office: Anderson County Council
 status: evergreen
 race_status: active
-last_updated: 2026-08-17
+last_updated: 2026-11-02
+roster_checked: 2026-11-02
 sources_checked: 2026-08-17
 source_count: 10
 confidence: high
@@ -19,17 +20,19 @@ sources:
   - "https://www.independentmail.com/story/news/local/2025/11/07/penny-sales-tax-rejected-anderson-county-voters-whats-next/87122970007/"
   - "https://www.google.com/maps/d/u/0/viewer?mid=13sKIqIIaK9NUggg0tP1T6WQYkj0"
   - "https://en.wikipedia.org/wiki/Anderson_County,_South_Carolina"
-modified: 2026-08-17
+modified: 2026-11-02
 ---
 # Anderson County Council (2026)
 
 Anderson County has seven council districts, with members elected to two-year terms. All seven districts are on the Nov. 3, 2026 ballot. Pendleton's council district is **District 4**, confirmed from the county's "Find My County Council District" map (Pendleton town center and town hall both fall inside District 4) and consistent with Wikipedia's description of District 4 as the "Pendleton area" ([county district map](https://www.google.com/maps/d/u/0/viewer?mid=13sKIqIIaK9NUggg0tP1T6WQYkj0); [Wikipedia](https://en.wikipedia.org/wiki/Anderson_County,_South_Carolina)). District 7 covers the Williamston/Pelzer/Honea Path area, not Pendleton; the earlier draft reference calling District 7 the Pendleton/Clemson corner was wrong.
 
+> **November 2 roster check:** the Active candidate field was rechecked against the [official general-election tracker](https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596). This check does not reverify historical results, ratings, biographies, or dated platform comparisons. See [[pages/sources/election-day-2026|Election Day checklist and ballot-coverage limits]].
+
 ## Race status
 
 - Primary: June 9, 2026
 - General election: November 3, 2026
-- Candidate field: **complete in SC Votes Candidate Tracking as of Aug. 12**. The tracker lists 13 relevant records: seven active general-election candidates and six candidates defeated in the Republican primary.
+- Candidate field: **rechecked in SC Votes Candidate Tracking on Nov. 2**. The tracker lists 13 Anderson County Council records: eight Active general-election candidates and five candidates defeated in the Republican primary. The earlier seven-active/six-defeated breakdown was incorrect; District 2 contributes two Active candidates.
 - General-election contests: **District 2 only**, Democrat [[pages/entities/glenn-davis|Glenn Davis]] versus Republican [[pages/entities/james-hayes|James Hayes]]. The other six districts have one active candidate listed by SC Votes.
 - Official results record: the State Election Commission's Anderson County ENR page is linked in Sources, but returned HTTP 403 from this research environment. Primary result figures below are attributed to the Independent Mail's 100%-precincts report, not labeled certified here.
 

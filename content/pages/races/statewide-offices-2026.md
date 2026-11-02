@@ -4,7 +4,8 @@ aliases: []
 office: Statewide constitutional offices
 status: evergreen
 race_status: active
-last_updated: 2026-08-17
+last_updated: 2026-11-02
+roster_checked: 2026-11-02
 sources_checked: 2026-08-17
 source_count: 6
 confidence: high
@@ -15,18 +16,20 @@ sources:
   - "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
   - "https://www.wistv.com/2026/05/06/seven-candidates-compete-south-carolina-agriculture-commissioner/"
   - "https://www.yahoo.com/news/articles/sc-superintendent-ellen-weaver-3-121753676.html"
-modified: 2026-08-17
+modified: 2026-11-02
 ---
 # Statewide Constitutional Offices (2026)
 
 All six other statewide offices are on the Nov 3, 2026 ballot. Every race leans heavily Republican; incumbents running again in four of six. All candidate links go to entity pages.
+
+> **November 2 roster check:** the Active candidate field was rechecked against the [official general-election tracker](https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596). This check does not reverify historical results, ratings, biographies, or dated platform comparisons. See [[pages/sources/election-day-2026|Election Day checklist and ballot-coverage limits]].
 
 ## Race status
 
 - Primary: June 9, 2026
 - Runoff: June 23, 2026 if needed
 - General election: November 3, 2026
-- Candidate field: major-party candidates listed for all six offices; verify replacements and write-ins
+- Candidate field: all six office fields, including the listed minor-party candidates, reconfirmed Active in the official SC Votes tracker Nov. 2; write-in coverage remains incomplete
 - Ratings: not available in current wiki sources
 
 ## Attorney General (open - Alan Wilson ran for governor)

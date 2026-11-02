@@ -4,21 +4,22 @@ aliases: []
 party: Forward
 office: U.S. House, SC-5
 status: evergreen
-electoral_status: active candidate
-status_note: Forward Party candidate on the Nov 3, 2026 general ballot per the official SC Votes record.
-last_updated: 2026-08-17
+electoral_status: withdrawn
+status_note: Official SC Votes general-election tracker marks Kaplan Withdrew as of Nov. 2; this does not establish removal from printed ballots.
+last_updated: 2026-11-02
 sources_checked: 2026-08-17
-source_count: 3
+source_count: 4
 confidence: high
 sources:
+  - "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
   - "https://www.andykaplan4congress.com/"
   - "https://www.forwardparty.com/media/blog/forward-party-endorses-first-slate-of-congressional-candidates-for-2026/"
   - "https://www.wbtv.com/2026/06/08/tracking-2026-primary-results-south-carolinas-5th-congressional-district-us-house/"
-modified: 2026-08-17
+modified: 2026-11-02
 ---
 # Andy Kaplan
 
-**Status:** Forward Party candidate for U.S. House in South Carolina's 5th Congressional District on the Nov 3, 2026 general ballot. Listed as Active on the official SC Votes general-election record (election 22596, accessed Aug 17, 2026), facing Republican [[pages/entities/wes-climer|Wes Climer]] and Democrat [[pages/entities/mallory-dittmer|Mallory Dittmer]].
+**Status:** Former Forward Party candidate for SC-5. The [official SC Votes general-election tracker](https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596) marks Andy Kaplan **Withdrew** as of Nov. 2, 2026. The Aug. 17 snapshot listed him as Active; this is a subsequent status change, not an erasure of that history. [[pages/entities/wes-climer|Wes Climer]] and [[pages/entities/mallory-dittmer|Mallory Dittmer]] remain Active. Whether Kaplan’s name remains on printed ballots is not established by this tracker check.
 
 ## Background
 
@@ -38,3 +39,5 @@ modified: 2026-08-17
 - https://www.andykaplan4congress.com/
 - https://www.forwardparty.com/media/blog/forward-party-endorses-first-slate-of-congressional-candidates-for-2026/
 - https://www.wbtv.com/2026/06/08/tracking-2026-primary-results-south-carolinas-5th-congressional-district-us-house/
+
+- https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596

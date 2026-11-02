@@ -4,11 +4,13 @@ aliases: []
 office: Governor and Lieutenant Governor
 status: evergreen
 race_status: active
-last_updated: 2026-08-17
+last_updated: 2026-11-02
+roster_checked: 2026-11-02
 sources_checked: 2026-08-17
-source_count: 8
+source_count: 9
 confidence: high
 sources:
+  - "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
   - "https://vrems.scvotes.sc.gov/Candidate/SelectElection"
   - "https://scvotes.gov/elections-statistics/election-results/"
   - "https://www.enr-scvotes.org/SC/126718/"
@@ -17,18 +19,20 @@ sources:
   - "https://politics1.com/sc.htm"
   - "https://www.cookpolitical.com/"
   - "https://www.independentmail.com/"
-modified: 2026-08-17
+modified: 2026-11-02
 ---
 # Governor (2026)
 
 Open seat: incumbent Henry McMaster (R) is term-limited (two consecutive terms). Democrats have not won this office since 1998. All major raters call the general election Solid/Likely Republican.
+
+> **November 2 roster check:** the Active candidate field was rechecked against the [official general-election tracker](https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596). This check does not reverify historical results, ratings, biographies, or dated platform comparisons. See [[pages/sources/election-day-2026|Election Day checklist and ballot-coverage limits]].
 
 ## Race status
 
 - Primary: June 9, 2026
 - Runoff: June 23, 2026
 - General election: November 3, 2026
-- Candidate field: Republican and Democratic tickets plus two third-party tickets listed; verify write-ins and replacements
+- Candidate field: four Active tickets verified Nov. 2 in SC Votes: Wilson/Reichenbach (R), Johnson/Skardon (D), Hakim/Karr (Green), Addison/Brewer (United Citizens); write-in coverage remains incomplete
 - Ratings: Cook Solid R, Inside Elections Solid R, Sabato Safe R; DDHQ not found in the current sources
 
 ## Republican ticket - nominee
@@ -45,7 +49,7 @@ Primary history: June 9 first round was a 5-way race (Evette led with ~20%, Trum
 
 ## Third party
 
-- [[pages/entities/walid-hakim|Walid Hakim]] (Green) - businessman, Marine veteran
+- [[pages/entities/walid-hakim|Walid Hakim]] (Green) - businessman, Marine veteran; running mate Arnold E Karr, Active in the Nov. 2 official tracker
 - [[pages/entities/michael-addison|Michael Addison]] (United Citizens) - physician; running mate Candace Brewer (private investigator and pastor)
 
 ## Issues in play (per campaigns)
@@ -84,3 +88,5 @@ Campaign claims are attributed to each campaign; neither campaign's claims are p
 - https://politics1.com/sc.htm
 - https://www.cookpolitical.com/
 - https://www.independentmail.com/
+
+- https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596

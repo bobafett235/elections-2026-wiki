@@ -2,27 +2,33 @@
 title: South Carolina Elections 2026 Wiki
 description: Independent, source-first research on South Carolina elections, Anderson County, and Pendleton-area races.
 tags: [meta, elections-2026, south-carolina]
-last_updated: 2026-10-05
+last_updated: 2026-11-02
 confidence: high
 source_count: 0
 sources: []
-modified: 2026-10-05
+modified: 2026-11-02
 ---
 # Elections 2026 Wiki - Index
 
 > Content catalog. Every wiki page listed under its section with a one-line summary.
 > Read this first to find relevant pages.
-> Last updated: 2026-10-05 | Total pages: 85 (8 races, 65 candidates, 12 source notes)
+> Last updated: 2026-11-02 | Total pages: 86 (8 races, 65 candidates, 13 source notes)
 
 Start here: [[about|About, methodology, and disclaimer]] · [[changelog|Public changelog]] · [Source repository](https://github.com/bobafett235/elections-2026-wiki)
 
+## Election Day – Tuesday, November 3
+
+**Polls: 7:00 a.m. to 7:00 p.m. Eastern. Early voting has ended.** Start with [[pages/sources/election-day-2026|the Election Day checklist]] for official polling-place and sample-ballot tools, photo ID, absentee returns, county help, and results. Candidate-status records were checked November 2; platform comparisons retain their own research dates.
+
+**Roster corrections:** SC-5’s Andy Kaplan and SC-6’s Joseph Oddo now show Withdrew, not Active. This does not establish removal from printed ballots. The guide also flags local offices outside the main race pages and the limits of ZIP-code-based ballot coverage.
+
 ## Races
 
-- [[pages/races/senate-2026|US Senate]] - Darline Graham won the Aug 25 special GOP runoff 52.45%-47.55%; Graham, Andrews, Whitener, and Hackett are the active general-election records; early voting Oct 19-31
+- [[pages/races/senate-2026|US Senate]] - Darline Graham won the Aug 25 special GOP runoff 52.45%-47.55%; Graham, Andrews, Whitener, and Hackett are the active general-election records; early voting ended Oct 31; Election Day Nov 3
 - [[pages/races/governor-2026|Governor]] - Wilson/Reichenbach (R) vs Johnson/Skardon (D); open seat, McMaster term-limited; 12-issue disagreement table
 - [[pages/races/statewide-offices-2026|Statewide Offices]] - AG, SoS, Treasurer, Comptroller, Supt, Ag Commissioner; disagreement summaries per office
 - [[pages/races/us-house-sc3-2026|US House SC-3]] - Biggs (R, inc) vs Lehmacher (D) vs Corriea (L); three-way disagreement table
-- [[pages/races/us-house-sc-overview-2026|US House statewide overview]] - all seven November fields verified via SC Votes; SC-5 open (Climer/Dittmer/Kaplan), SC-2 Khalifa, SC-7 Fry/Vincent
+- [[pages/races/us-house-sc-overview-2026|US House statewide overview]] - all seven November fields verified via SC Votes; SC-5 open (Climer/Dittmer; Kaplan withdrawn); SC-6 Oddo withdrawn, SC-2 Khalifa, SC-7 Fry/Vincent
 - [[pages/races/hd8-2026|SC House HD-8]] - Chapman (R, inc) vs Carson (D); partial disagreement table
 - [[pages/races/county-council-2026|Anderson County Council]] - all 7 seats up; D2 contested (Davis vs Hayes); Pendleton confirmed in District 4; penny tax rejected Nov 2025
 - [[pages/races/sd4-board-2026|Anderson SD4 School Board]] - Areas 2, 4, 5 verified up; Area 4 three-way (Bailey/Leavitt/Williams), Grate and Mock running unopposed
@@ -58,7 +64,7 @@ Start here: [[about|About, methodology, and disclaimer]] · [[changelog|Public c
 - [[pages/entities/dayna-alane-smith|Dayna Alane Smith]] (Workers, SC-2) - little public info
 - [[pages/entities/wes-climer|Wes Climer]] (R, SC-5) - state senator; resigned from SD-15 effective Nov 3
 - [[pages/entities/mallory-dittmer|Mallory Dittmer]] (D, SC-5) - Fort Mill business owner; won Dem primary
-- [[pages/entities/andy-kaplan|Andy Kaplan]] (Forward, SC-5) - 30-year healthcare professional
+- [[pages/entities/andy-kaplan|Andy Kaplan]] (Forward, SC-5) - withdrawn per official Nov. 2 tracker; historical campaign profile retained
 
 ## Entities - Governor and statewide
 
@@ -100,11 +106,13 @@ Start here: [[about|About, methodology, and disclaimer]] · [[changelog|Public c
 - [[pages/entities/paulette-grate|Paulette Grate]] (NP) - SD4 board Area 2 vice chair; running unopposed
 - [[pages/entities/diana-mullikin|Diana Mullikin]] (NP) - SD4 board Area 4; not running in 2026
 - [[pages/entities/brad-mock|Brad Mock]] (NP) - SD4 board Area 5; running unopposed
-- [[pages/entities/brandon-e-bailey|Brandon E Bailey]] (NP) - SD4 board Area 4 candidate; little public info
-- [[pages/entities/anna-leavitt|Anna Leavitt]] (NP) - SD4 board Area 4 candidate; little public info
-- [[pages/entities/dustin-williams|Dustin Williams]] (NP) - SD4 board Area 4 candidate; little public info
+- [[pages/entities/brandon-e-bailey|Brandon E Bailey]] (NP) - SD4 Area 4; late-October interview and platform ingested Nov 2
+- [[pages/entities/anna-leavitt|Anna Leavitt]] (NP) - SD4 Area 4; late-October interview and platform ingested Nov 2
+- [[pages/entities/dustin-williams|Dustin Williams]] (NP) - SD4 Area 4; late-October interview and platform ingested Nov 2
 
 ## Sources
+
+- [[pages/sources/election-day-2026|Election Day guide]] - Nov. 3 voting checklist, Nov. 2 roster check, local-office gaps, and official results links
 
 <!-- Canonical source URLs live in each page's frontmatter; readable source lists remain on-page. -->
 

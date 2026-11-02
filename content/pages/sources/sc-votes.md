@@ -2,7 +2,8 @@
 tags: [source]
 aliases: [South Carolina State Election Commission, SC Votes]
 status: evergreen
-last_updated: 2026-10-05
+last_updated: 2026-11-02
+roster_checked: 2026-11-02
 sources_checked: 2026-10-05
 source_count: 17
 confidence: high
@@ -24,7 +25,7 @@ sources:
   - "https://scvotes.gov/sec-addresses-ballot-question/"
   - "https://scdailygazette.com/2026/07/29/sc-gop-bars-3-candidates-from-primary-ballot-leaving-9-to-compete-for-us-senate/"
   - "https://apnews.com/live/election-primary-08-11-2026"
-modified: 2026-10-05
+modified: 2026-11-02
 ---
 # South Carolina Election Commission / SC Votes
 
@@ -62,6 +63,12 @@ On July 15, the State Election Commission stated that a candidate may appear on 
 The Candidate Tracking listing for the November 3 Statewide General Election (election 22596) was re-pulled via the candidate-search endpoint on Oct. 5, 2026. It returned 14 U.S. Senate rows, with four Active records: Darline Graham (Republican), Annie Andrews (Democratic), Kasie Whitener (Libertarian), and Mark Hackett (Constitution). Lindsey Graham remains in the record with status "Deceased After Primary." Ballotpedia's five Independent Senate candidates (Jack Ellison, Cindy Glaser, Paul Sedletsky, Edward Strunge, Reece Wright-McDonald) do not appear anywhere in the record, so their November ballot status is [unverified]. The record does list petition candidates that failed to qualify, so an absent name means no filed record as of the pull. Anderson County Council D2 (Davis/Hayes), D4 (Shalaby), D7 (Alexander Active, M. Cindy Wilson Defeated In Primary), SD4 Areas 2/4/5, HD-8, and all seven House fields were re-confirmed unchanged.
 
 The SEC's current voter-preparation page lists Oct. 2 as the in-person registration deadline, Oct. 4 at 11:59 p.m. for online or email/fax applications, and Oct. 5 as the mail postmark deadline. General-election early voting is Oct. 19-31, 8:30 a.m. to 6:00 p.m., Monday through Saturday, closed Sunday, Oct. 25. Absentee ballots must arrive by 7:00 p.m. on Nov. 3.
+
+## Election-eve verification (Nov. 2, 2026)
+
+The full candidate-search response for election 22596 was retrieved without a status filter. The four Active Senate candidates, four gubernatorial tickets, all six other statewide office fields, SC-3, HD-8, Anderson County Council, and SD4 Areas 2/4/5 were checked against the race pages. Two changes supersede the earlier House snapshot: Andy Kaplan (SC-5, Forward Party) and Joseph Oddo (SC-6, Alliance) now show **Withdrew**. This establishes their tracker status, not removal from already printed ballots. Anderson County Council has **eight** Active candidates across seven seats; the prior seven-active count was a wiki counting error.
+
+The referendum-search response showed local questions but no Anderson County question or statewide constitutional amendment. The tracker’s coverage does not replace an address-specific sample ballot. [[pages/sources/election-day-2026|Election Day guide]] records the official voting-logistics sources, county contact, extra local-office coverage, and election-night results caveats. Existing dated historical checks above are retained as history.
 
 ## Integration rules
 

@@ -6,21 +6,22 @@ office: U.S. House, SC-5
 status: evergreen
 electoral_status: nominee
 status_note: Won the June 9, 2026 Democratic primary; on the Nov 3, 2026 general ballot per the official SC Votes record.
-last_updated: 2026-08-17
+last_updated: 2026-11-02
 sources_checked: 2026-08-17
-source_count: 5
+source_count: 6
 confidence: high
 sources:
+  - "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
   - "https://www.wrhi.com/2025/10/learn-more-about-dittmer-at-https-www-dittmerforcongress-com-205287"
   - "https://www.dittmerforcongress.com/"
   - "https://www.ballotready.org/people/mallory-dittmer"
   - "https://www.newsfromthestates.com/article/gop-senator-running-congress-resigns-enabling-voters-replace-him-november"
   - "https://www.heraldonline.com/news/politics-government/article315896792.html"
-modified: 2026-08-17
+modified: 2026-11-02
 ---
 # Mallory Dittmer
 
-**Status:** Democratic nominee for U.S. House in South Carolina's 5th Congressional District. Listed as Active on the official SC Votes general-election record (election 22596, accessed Aug 17, 2026), facing Republican [[pages/entities/wes-climer|Wes Climer]] and Forward Party candidate [[pages/entities/andy-kaplan|Andy Kaplan]].
+**Status:** Democratic nominee for U.S. House in South Carolina's 5th Congressional District. Listed as Active on the official SC Votes general-election record (election 22596, checked Nov. 2, 2026), facing Republican [[pages/entities/wes-climer|Wes Climer]]. [[pages/entities/andy-kaplan|Andy Kaplan]], previously Active, is now marked **Withdrew** in that record; removal from printed ballots is not established.
 
 ## Background
 
@@ -43,3 +44,5 @@ modified: 2026-08-17
 - https://www.ballotready.org/people/mallory-dittmer
 - https://www.newsfromthestates.com/article/gop-senator-running-congress-resigns-enabling-voters-replace-him-november
 - https://www.heraldonline.com/news/politics-government/article315896792.html
+
+- https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596

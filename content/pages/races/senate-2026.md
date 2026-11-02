@@ -4,7 +4,8 @@ aliases: []
 office: U.S. Senate
 status: evergreen
 race_status: general election
-last_updated: 2026-10-05
+last_updated: 2026-11-02
+roster_checked: 2026-11-02
 sources_checked: 2026-10-05
 source_count: 28
 confidence: high
@@ -37,11 +38,11 @@ sources:
   - "https://www.coladaily.com/communities/special-republican-primary-runoff-debate-what-to-know-how-to-watch/article_aebe066a-8358-47a4-9ea3-c128c538b737.html"
   - "https://rollcall.com/2026/08/11/darline-graham-will-face-ralph-norman-in-south-carolina-senate-runoff/"
   - "https://www.eventbrite.com/e/congresswoman-sheri-biggs-salute-to-liberty-tickets-1992660897385"
-modified: 2026-10-05
+modified: 2026-11-02
 ---
 # U.S. Senate (2026) - General Election
 
-**Current status (updated Oct. 5):** [[pages/entities/darline-graham|Darline Graham]] won the Aug. 25 special Republican primary runoff over [[pages/entities/ralph-norman|Ralph Norman]], 193,486 votes (52.45%) to 175,412 (47.55%), according to the current official State Election Commission ENR record. Graham is now the Republican nominee for the Nov. 3 general election. The live SC Votes candidate tracker, checked Oct. 5, lists four active Senate records: Graham (R), [[pages/entities/annie-andrews|Annie Andrews]] (D), [[pages/entities/kasie-whitener|Kasie Whitener]] (L), and [[pages/entities/mark-hackett|Mark Hackett]] (Constitution). It retains Lindsey Graham as "Deceased After Primary" and does not list the five Ballotpedia-listed Independents as active records.
+**Current status (roster rechecked Nov. 2; runoff result recorded Oct. 5):** [[pages/entities/darline-graham|Darline Graham]] won the Aug. 25 special Republican primary runoff over [[pages/entities/ralph-norman|Ralph Norman]], 193,486 votes (52.45%) to 175,412 (47.55%), according to the current official State Election Commission ENR record. Graham is now the Republican nominee for the Nov. 3 general election. The live SC Votes candidate tracker, checked Nov. 2, lists four active Senate records: Graham (R), [[pages/entities/annie-andrews|Annie Andrews]] (D), [[pages/entities/kasie-whitener|Kasie Whitener]] (L), and [[pages/entities/mark-hackett|Mark Hackett]] (Constitution). It retains Lindsey Graham as "Deceased After Primary" and does not list the five Ballotpedia-listed Independents as active records.
 
 **Ballot correction:** Twelve people initially filed. The South Carolina Republican Party decertified Danny Ford II, Darius Mitchell, and Clark Neilson on July 28, leaving nine candidates. A Richland County court order required Ford to be added back on Aug. 4, and the State Election Commission confirmed the addition. The Aug. 11 ballot therefore had **10 candidates**. The remaining two decertifications, Mitchell and Neilson, are documented below for filing history but were not ballot candidates.
 
@@ -51,6 +52,8 @@ modified: 2026-10-05
 
 **Ratings (general):** Cook Solid R | DDHQ Likely R | Inside Elections Likely R | Sabato Safe R.
 
+> **November 2 roster check:** the Active candidate field was rechecked against the [official general-election tracker](https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596). This check does not reverify historical results, ratings, biographies, or dated platform comparisons. See [[pages/sources/election-day-2026|Election Day checklist and ballot-coverage limits]].
+
 ## Race status
 
 - Regular primary: June 9, 2026
@@ -59,7 +62,7 @@ modified: 2026-10-05
 - Special runoff: August 25, 2026, completed. Darline Graham won 193,486 (52.45%) to Ralph Norman's 175,412 (47.55%) on the official ENR record. A State Election Commission hand-count audit notice was posted for the runoff.
 - General election: November 3, 2026
 - Candidate field: The current SC Votes general-election tracker lists Graham (R), Andrews (D), Whitener (L), and Hackett (Constitution) as Active Senate candidates. Lindsey Graham remains in the record as "Deceased After Primary." The five Ballotpedia-listed Independent candidates remain [unverified] because they do not appear in the official tracker.
-- General-election voting: registration deadlines were Oct. 2 in person, Oct. 4 online or by email/fax, and Oct. 5 postmark by mail. Early voting runs Oct. 19-31 from 8:30 a.m. to 6:00 p.m., Monday through Saturday, closed Sunday, Oct. 25. Absentee ballots must arrive by 7:00 p.m. on Nov. 3.
+- General-election voting: registration deadlines were Oct. 2 in person, Oct. 4 online or by email/fax, and Oct. 5 postmark by mail. Early voting ended Oct. 31 (the period ran Oct. 19-31 from 8:30 a.m. to 6:00 p.m., Monday through Saturday, closed Sunday, Oct. 25). Absentee ballots must arrive by 7:00 p.m. on Nov. 3.
 
 ## Special Republican primary - August 11 (10 ballot candidates, certified results)
 
@@ -78,7 +81,7 @@ modified: 2026-10-05
 
 Vote cast: 335,555. Turnout: 11.12% (335,693 ballots, 3,019,175 registered). No candidate reached 50%, triggering the Aug. 25 runoff. Source: official SC Election Commission ENR record ([ENR](https://www.enr-scvotes.org/SC/127017/)).
 
-## Runoff result and general-election logistics (as of Oct. 5)
+## Runoff result and historical voting calendar (Oct. 5 snapshot)
 
 - **Runoff result:** Darline Graham defeated Ralph Norman in the Aug. 25 special Republican primary runoff. The official ENR page reports Graham with 193,486 votes (52.45%) and Norman with 175,412 (47.55%); all counties are shown as reporting. The State Election Commission also published a hand-count audit notice for the runoff ([ENR](https://www.enr-scvotes.org/SC/127179/); [audit notice](https://scvotes.gov/hand-count-audits-for-2026-u-s-senate-special-republican-primary-runoff/)).
 - **Current official Senate records:** the SC Votes general-election tracker returned 14 Senate rows on Oct. 5. Four are Active: Graham (Republican), Annie Andrews (Democratic), Kasie Whitener (Libertarian), and Mark Hackett (Constitution). Lindsey Graham remains listed as "Deceased After Primary." The five Ballotpedia-listed Independents still do not appear in the tracker and remain [unverified] for ballot status.

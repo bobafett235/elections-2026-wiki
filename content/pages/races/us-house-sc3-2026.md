@@ -4,10 +4,12 @@ aliases: []
 office: U.S. House, SC-3
 status: evergreen
 race_status: active
-last_updated: 2026-08-17
-source_count: 8
+last_updated: 2026-11-02
+roster_checked: 2026-11-02
+source_count: 9
 confidence: high
 sources:
+  - "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
   - "https://vrems.scvotes.sc.gov/Candidate/SelectElection"
   - "https://www.fec.gov/data/elections/house/SC/03/2026/"
   - "https://clerk.house.gov/members"
@@ -16,18 +18,20 @@ sources:
   - "https://ivoterguide.com/candidate/82864/race/16287/election/1229?culture=en-us"
   - "https://sclp.org/candidates/"
   - "https://www.wyff4.com/article/sheri-biggs-south-carolina-senate-runoff/73430915"
-modified: 2026-08-17
+modified: 2026-11-02
 ---
 # U.S. House - South Carolina District 3 (2026)
 
 Pendleton (29670) is in SC-3 (Anderson, Oconee, Pickens and parts of Greenville/Laurens). Republican-leaning seat; no race rating available in wiki sources yet [needs-source].
+
+> **November 2 roster check:** the Active candidate field was rechecked against the [official general-election tracker](https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596). This check does not reverify historical results, ratings, biographies, or dated platform comparisons. See [[pages/sources/election-day-2026|Election Day checklist and ballot-coverage limits]].
 
 ## Race status
 
 - Primary: June 9, 2026
 - Runoff: June 23, 2026 if needed
 - General election: November 3, 2026
-- Candidate field: Sheri Biggs (R), Eunice Lehmacher (D), and Brian Corriea (L) listed in the secondary index; verify final ballot status against SC Votes
+- Candidate field: Sheri Biggs (R), Eunice Lehmacher (D), and Brian Corriea (L) are Active in the official SC Votes general-election tracker, checked Nov. 2, 2026
 - Ratings: not available in current wiki sources
 
 ## Candidates (Nov 3 general)
@@ -58,3 +62,5 @@ Biggs' platform is the thinnest of the three for 2026: she has not completed Bal
 - https://ivoterguide.com/candidate/82864/race/16287/election/1229?culture=en-us
 - https://sclp.org/candidates/
 - https://www.wyff4.com/article/sheri-biggs-south-carolina-senate-runoff/73430915
+
+- https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596

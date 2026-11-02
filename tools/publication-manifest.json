@@ -2,7 +2,7 @@
   "groups": {
     "races": 8,
     "entities": 65,
-    "sources": 12
+    "sources": 13
   },
   "root_files": [
     "index.md"
@@ -11,6 +11,6 @@
     "about.md",
     "changelog.md"
   ],
-  "total_markdown_files": 88,
+  "total_markdown_files": 89,
   "secret_scan_allowlist": []
 }

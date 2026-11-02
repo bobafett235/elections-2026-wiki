@@ -6,22 +6,23 @@ office: U.S. House, SC-5
 status: evergreen
 electoral_status: nominee
 status_note: Unopposed in the June 9, 2026 Republican primary; on the Nov 3, 2026 general ballot per the official SC Votes record.
-last_updated: 2026-08-17
+last_updated: 2026-11-02
 sources_checked: 2026-08-17
-source_count: 6
+source_count: 7
 confidence: high
 sources:
+  - "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
   - "https://en.wikipedia.org/wiki/Wes_Climer"
   - "https://ballotpedia.org/Wes_Climer"
   - "https://www.heraldonline.com/news/politics-government/article311540366.html"
   - "https://scdailygazette.com/2026/06/22/gop-senator-running-for-congress-resigns-enabling-voters-to-replace-him-in-november/"
   - "https://www.heraldonline.com/news/politics-government/article315896792.html"
   - "https://www.uschamber.com/improving-government/u-s-chamber-endorses-candidate-wes-climer-for-south-carolinas-fifth-congressional-district"
-modified: 2026-08-17
+modified: 2026-11-02
 ---
 # Wes Climer
 
-**Status:** Republican nominee for U.S. House in South Carolina's 5th Congressional District, the open seat left by [[pages/entities/ralph-norman|Ralph Norman]]. Listed as Active on the official SC Votes general-election record (election 22596, accessed Aug 17, 2026), facing Democrat [[pages/entities/mallory-dittmer|Mallory Dittmer]] and Forward Party candidate [[pages/entities/andy-kaplan|Andy Kaplan]].
+**Status:** Republican nominee for U.S. House in South Carolina's 5th Congressional District, the open seat left by [[pages/entities/ralph-norman|Ralph Norman]]. Listed as Active on the official SC Votes general-election record (election 22596, checked Nov. 2, 2026), facing Democrat [[pages/entities/mallory-dittmer|Mallory Dittmer]]. [[pages/entities/andy-kaplan|Andy Kaplan]], previously Active, is now marked **Withdrew** in that record; removal from printed ballots is not established.
 
 ## Background
 
@@ -47,3 +48,5 @@ modified: 2026-08-17
 - https://scdailygazette.com/2026/06/22/gop-senator-running-for-congress-resigns-enabling-voters-to-replace-him-in-november/
 - https://www.heraldonline.com/news/politics-government/article315896792.html
 - https://www.uschamber.com/improving-government/u-s-chamber-endorses-candidate-wes-climer-for-south-carolinas-fifth-congressional-district
+
+- https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596

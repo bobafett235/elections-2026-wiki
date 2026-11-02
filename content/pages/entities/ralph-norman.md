@@ -6,7 +6,7 @@ office: U.S. Senate
 status: evergreen
 electoral_status: defeated in special Republican runoff
 status_note: Lost the Aug. 25 special Republican runoff to Darline Graham, 175,412 votes (47.55%) to 193,486 (52.45%); not a candidate on the Nov. 3 general-election Senate field.
-last_updated: 2026-10-05
+last_updated: 2026-11-02
 sources_checked: 2026-10-05
 source_count: 8
 confidence: high
@@ -19,7 +19,7 @@ sources:
   - "https://www.enr-scvotes.org/SC/127179/"
   - "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
   - "https://apnews.com/live/election-primary-08-11-2026"
-modified: 2026-10-05
+modified: 2026-11-02
 ---
 # Ralph Norman
 
@@ -32,7 +32,7 @@ modified: 2026-10-05
 - Real estate developer, Warren Norman Company [Wikipedia](https://en.wikipedia.org/wiki/Ralph_Norman)
 - Ranked most conservative member of the 117th Congress by GovTrack (Feb 2023) [Wikipedia](https://en.wikipedia.org/wiki/Ralph_Norman)
 - Ran for governor in 2026 before pivoting to the Senate race; eliminated in the June 9 gubernatorial primary, endorsed Wilson ([Wikipedia](https://en.wikipedia.org/wiki/Ralph_Norman))
-- NOT a candidate for his SC-5 House seat in the November general election: the official SC Votes general-election record shows no Norman filing for SC-5; the seat's field is Wes Climer (R), Mallory Dittmer (D), and Andy Kaplan (Forward). Norman lost the Senate runoff and has no November statewide candidacy.
+- NOT a candidate for his SC-5 House seat in the November general election: the official SC Votes general-election record shows no Norman filing for SC-5; the Active field on Nov. 2 is Wes Climer (R) and Mallory Dittmer (D). Andy Kaplan (Forward), previously Active, is now marked Withdrew. Norman lost the Senate runoff and has no November statewide candidacy.
 
 ## Platform
 

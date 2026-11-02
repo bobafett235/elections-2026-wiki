@@ -2,13 +2,21 @@
 tags: [meta]
 aliases: [Public changelog]
 status: evergreen
-last_updated: 2026-10-05
+last_updated: 2026-11-02
 source_count: 0
 confidence: high
 sources: []
-modified: 2026-10-05
+modified: 2026-11-02
 ---
 # Public changelog
+
+## 2026-11-02: Election Day readiness and local candidate interviews
+
+- Added an Election Day checklist and homepage entry point: Nov. 3 polling hours, assigned polling place and sample ballot, accepted photo IDs, provisional procedures, absentee return deadline, Anderson County contact, and official results links. Early voting is now explicitly closed.
+- Rechecked candidate-status records for every race page against the official general-election tracker. Corrected SC-5 Andy Kaplan and SC-6 Joseph Oddo to Withdrew, without claiming removal from printed ballots; updated dependent SC-5 profiles.
+- Corrected the Anderson Council count to eight Active candidates across seven seats. Flagged other local offices outside the main race pages and the limitations of the referendum tracker.
+- Added the Oct. 26-27 Anderson Observer interviews for all three SD4 Area 4 candidates, with attributed biographies and a comparison of school capital sales tax, partisan board elections, growth, and priorities. Kept the school-tax discussion distinct from the rejected 2025 county tax proposal.
+- Preserved dated platform research, unresolved write-in and address-specific gaps, and the distinction between unofficial election-night totals and certification.
 
 ## 2026-10-05: Senate runoff result and general-election refresh
 
